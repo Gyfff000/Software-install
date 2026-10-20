@@ -9,9 +9,18 @@
       "sha256": "08B770C3C6AEEBF57F43656A2AE7481F26BC980D448A615DE9682863677C3E59",
       "product_version": "",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-chemdraw-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-chemdraw-20261020",
+      "assets": [
+        {
+          "name": "08b770c3c6ae-ChemDraw23_win.exe",
+          "size_bytes": 1368040504,
+          "sha256": "08b770c3c6aeebf57f43656a2ae7481f26bc980d448a615de9682863677c3e59",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-00045cab692eb35f8de0/08b770c3c6ae-ChemDraw23_win.exe",
+          "asset_id": 658483666
+        }
+      ]
     }
   ]
 }

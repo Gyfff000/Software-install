@@ -4,7 +4,7 @@ Here are installation packages for nearly all essential software for engineering
 ## 工科软件安装包归档
 Ubuntu 24.04.4 的原镜像不完整，已删除，未提供下载；其它完整镜像继续归档。
 每个软件一个目录，目录中包含文件清单、SHA-256与下载入口。实际安装包放在对应的GitHub Releases附件中；超过附件限制的文件按1GiB分卷。
-当前共 76 类软件；已上传并校验 91 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
+当前共 76 类软件；已上传并校验 92 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
 校验值用于确认备份字节一致，不代表官方来源、数字签名或授权认证。注册机、许可证文件、个人项目和本机路径不纳入公开归档。
 
 | 软件 | 安装包数 | 已完成 | 目录 |
@@ -19,7 +19,7 @@ Ubuntu 24.04.4 的原镜像不完整，已删除，未提供下载；其它完�
 | 哔哩哔哩 | 1 | 1 | [bilibili](bilibili/) |
 | CC Switch | 2 | 2 | [cc-switch](cc-switch/) |
 | ChatGPT | 1 | 1 | [chatgpt](chatgpt/) |
-| ChemDraw | 1 | 0 | [chemdraw](chemdraw/) |
+| ChemDraw | 1 | 1 | [chemdraw](chemdraw/) |
 | Clash Verge | 1 | 1 | [clash-verge](clash-verge/) |
 | Claude | 2 | 2 | [claude](claude/) |
 | CodeBlocks | 1 | 0 | [codeblocks](codeblocks/) |
