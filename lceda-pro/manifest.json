@@ -9,9 +9,18 @@
       "sha256": "35841EFECEBDD06F1ECF5F3CF65E9AE459A1B1D27658686B887DF52356D56D08",
       "product_version": "2.2.40.8                                          ",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-lceda-pro-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-lceda-pro-20261020",
+      "assets": [
+        {
+          "name": "35841efecebd-lceda-pro-windows-x64-2.2.40.8.exe",
+          "size_bytes": 222535384,
+          "sha256": "35841efecebdd06f1ecf5f3cf65e9ae459a1b1d27658686b887df52356d56d08",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-0612d9985a2110c4f6a4/35841efecebd-lceda-pro-windows-x64-2.2.40.8.exe",
+          "asset_id": 658402814
+        }
+      ]
     },
     {
       "filename": "lceda-pro-windows-x64-3.2.175.exe",
