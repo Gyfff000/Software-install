@@ -9,9 +9,18 @@
       "sha256": "85435FAA5DC7A6446749012A814FAB07DEF5A8FAB5317A20CE10794127C6E886",
       "product_version": "16.00.0000",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-siemens-plcsim-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-siemens-plcsim-20261020",
+      "assets": [
+        {
+          "name": "85435faa5dc7-SIMATIC_S7PLCSIM_V16.exe",
+          "size_bytes": 1853425256,
+          "sha256": "85435faa5dc7a6446749012a814fab07def5a8fab5317a20ce10794127c6e886",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-ca9aec76f90501c9ffa8/85435faa5dc7-SIMATIC_S7PLCSIM_V16.exe",
+          "asset_id": 658556618
+        }
+      ]
     }
   ]
 }
