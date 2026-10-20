@@ -3,7 +3,7 @@ Here are installation packages for nearly all essential software for engineering
 
 ## 工科软件安装包归档
 每个软件一个目录，目录中包含文件清单、SHA-256与下载入口。实际安装包放在对应的GitHub Releases附件中；超过附件限制的文件按1GiB分卷。
-当前共 76 类软件；已上传并校验 33 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
+当前共 76 类软件；已上传并校验 35 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
 校验值用于确认备份字节一致，不代表官方来源、数字签名或授权认证。注册机、许可证文件、个人项目和本机路径不纳入公开归档。
 
 | 软件 | 安装包数 | 已完成 | 目录 |
@@ -45,7 +45,7 @@ Here are installation packages for nearly all essential software for engineering
 | 数学建模工具 | 1 | 0 | [mathmodel](mathmodel/) |
 | MATLAB | 1 | 0 | [matlab](matlab/) |
 | Multisim / NI Circuit Design Suite | 3 | 0 | [multisim](multisim/) |
-| Node.js | 2 | 1 | [nodejs](nodejs/) |
+| Node.js | 2 | 2 | [nodejs](nodejs/) |
 | OOPZ | 1 | 0 | [oopz](oopz/) |
 | OpenCV | 1 | 0 | [opencv](opencv/) |
 | OriginPro 2018 安装介质 | 13 | 0 | [originpro](originpro/) |
@@ -78,7 +78,7 @@ Here are installation packages for nearly all essential software for engineering
 | UU远程 | 1 | 1 | [uu-remote](uu-remote/) |
 | VirtualBox | 1 | 0 | [virtualbox](virtualbox/) |
 | Visual Studio | 1 | 1 | [visual-studio](visual-studio/) |
-| VisualGDB | 1 | 0 | [visualgdb](visualgdb/) |
+| VisualGDB | 1 | 1 | [visualgdb](visualgdb/) |
 | Visual Studio Code | 1 | 0 | [vscode](vscode/) |
 | w64devkit | 1 | 1 | [w64devkit](w64devkit/) |
 | 微信 | 2 | 0 | [wechat](wechat/) |

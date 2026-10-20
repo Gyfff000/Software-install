@@ -9,9 +9,18 @@
       "sha256": "A222084EF80A0F4E56385B7C5E0E1EE68147AC074EC9F2A98F3E905F6F1E66EC",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-visualgdb-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-visualgdb-20261020",
+      "assets": [
+        {
+          "name": "a222084ef80a-VisualGDB-6.1r3-trial.msi",
+          "size_bytes": 72179712,
+          "sha256": "a222084ef80a0f4e56385b7c5e0e1ee68147ac074ec9f2a98f3e905f6f1e66ec",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-2f53755ebf1e9bf4fb7a/a222084ef80a-VisualGDB-6.1r3-trial.msi",
+          "asset_id": 658337878
+        }
+      ]
     }
   ]
 }

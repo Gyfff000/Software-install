@@ -29,9 +29,18 @@
       "sha256": "E75802E82BE6875B03B63377A9E12E4416799D0FB6DD460F0605D29144D386A6",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-nodejs-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-nodejs-20261020",
+      "assets": [
+        {
+          "name": "e75802e82be6-node-v24.14.0-x64.msi",
+          "size_bytes": 32280576,
+          "sha256": "e75802e82be6875b03b63377a9e12e4416799d0fb6dd460f0605d29144d386a6",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-bf05e87a2c181ba93fc2/e75802e82be6-node-v24.14.0-x64.msi",
+          "asset_id": 658339800
+        }
+      ]
     }
   ]
 }

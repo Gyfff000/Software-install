@@ -1,6 +1,6 @@
 # 电应普超声波调试助手
 
-归档状态：pending_binary_upload
+归档状态：uploaded_verified
 
 安装包附件只在校验成功后标记为 uploaded_verified。pending_upload 表示尚未上传。
 
