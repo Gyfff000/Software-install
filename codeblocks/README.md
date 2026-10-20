@@ -1,6 +1,6 @@
 # CodeBlocks
 
-归档状态：pending_binary_upload
+归档状态：upload_failed
 
 安装包附件只在校验成功后标记为 uploaded_verified。pending_upload 表示尚未上传。
 
