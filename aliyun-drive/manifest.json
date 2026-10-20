@@ -1,0 +1,17 @@
+{
+  "software": "阿里云盘",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "aDrive-6.9.1.exe",
+      "asset_name": "cc40289de6c3-aDrive-6.9.1.exe",
+      "size_bytes": 145893960,
+      "sha256": "CC40289DE6C35821214C816B8A1101C3ADA822F05C7DA3B770AE432067EEA76A",
+      "product_version": "6.9.1",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-aliyun-drive-20261020",
+      "download_url": null
+    }
+  ]
+}

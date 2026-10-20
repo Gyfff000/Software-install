@@ -1,0 +1,17 @@
+{
+  "software": "Arduino IDE",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "arduino-ide_2.3.10_Windows_64bit (1).exe",
+      "asset_name": "a8f3df0ac57c-arduino-ide_2.3.10_Windows_64bit__1_.exe",
+      "size_bytes": 158074632,
+      "sha256": "A8F3DF0AC57C6B74AA1B1D22E5F202DC5DDB46663579D4E5108A69CC99B6F823",
+      "product_version": "2.3.10",
+      "local_copy_count": 2,
+      "status": "pending_upload",
+      "release_tag": "archive-arduino-ide-20261020",
+      "download_url": null
+    }
+  ]
+}

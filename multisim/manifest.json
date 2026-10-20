@@ -1,0 +1,39 @@
+{
+  "software": "Multisim / NI Circuit Design Suite",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "NI_Circuit_Design_Suite_14_0.exe",
+      "asset_name": "5bd697f15e14-NI_Circuit_Design_Suite_14_0.exe",
+      "size_bytes": 717312856,
+      "sha256": "5BD697F15E14F97B9323E223640670B980E6F48DD7EEC58CA77A11BB507E272E",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-multisim-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "NI_Circuit_Design_Suite_12.0.exe",
+      "asset_name": "7f501e0177a8-NI_Circuit_Design_Suite_12.0.exe",
+      "size_bytes": 596511392,
+      "sha256": "7F501E0177A8D4C87A482D1376D7FDE7B197A6545E45D11E860D29295EF7F697",
+      "product_version": null,
+      "local_copy_count": 2,
+      "status": "pending_upload",
+      "release_tag": "archive-multisim-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "Multisim14.0.zip",
+      "asset_name": "7f9c1b48d0ca-Multisim14.0.zip",
+      "size_bytes": 718742454,
+      "sha256": "7F9C1B48D0CAEB1EC291C6D7DF9DD5C61914296DA94F6B8D4C681825488C78F7",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-multisim-20261020",
+      "download_url": null
+    }
+  ]
+}

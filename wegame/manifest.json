@@ -1,0 +1,28 @@
+{
+  "software": "WeGame",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "WeGameMiniLoader.std.7.06.27.1446 (1).exe",
+      "asset_name": "0948beca6821-WeGameMiniLoader.std.7.06.27.1446__1_.exe",
+      "size_bytes": 7266616,
+      "sha256": "0948BECA682116A643629C93FF787D2602B599B4CA1C586D8B2C02A7F4EF6D26",
+      "product_version": "7.06.27.1446",
+      "local_copy_count": 2,
+      "status": "pending_upload",
+      "release_tag": "archive-wegame-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "WeGameSetup5.0.4.8192_launcher_0_0.exe",
+      "asset_name": "dfd2048d556e-WeGameSetup5.0.4.8192_launcher_0_0.exe",
+      "size_bytes": 229278560,
+      "sha256": "DFD2048D556EC5D2A2F89A50AFB11693FD99824350BE244859BE496D38EFBE0B",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-wegame-20261020",
+      "download_url": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "software": "PDF Editor",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "GA_PDFEditor_Zh_Online_Full_v2025.1.0.27937_Continuous.msi",
+      "asset_name": "0253691b0e9c-GA_PDFEditor_Zh_Online_Full_v2025.1.0.27937_Continuous.msi",
+      "size_bytes": 1023131648,
+      "sha256": "0253691B0E9C6B6CA491237AD108FBE54D2E9CECE93B6ACD93A2FA7B0D949AE0",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-pdf-editor-20261020",
+      "download_url": null
+    }
+  ]
+}

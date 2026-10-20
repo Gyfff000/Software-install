@@ -1,0 +1,17 @@
+{
+  "software": "Steam",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "SteamSetup.exe",
+      "asset_name": "7d3654531c32-SteamSetup.exe",
+      "size_bytes": 2380800,
+      "sha256": "7D3654531C32D941B8CAE81C4137FC542172BFA9635F169CB392F245A0A12BCB",
+      "product_version": "",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-steam-20261020",
+      "download_url": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "software": "QGroundControl",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "QGroundControl-installer-AMD64.exe",
+      "asset_name": "36d92d28acf5-QGroundControl-installer-AMD64.exe",
+      "size_bytes": 145008138,
+      "sha256": "36D92D28ACF5DD4906BED5CBB4A800661D9B33C66129C44D0798360CB637309D",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-qgroundcontrol-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "QGroundControl-installer-AMD64 (1).exe",
+      "asset_name": "70781e2d6fe9-QGroundControl-installer-AMD64__1_.exe",
+      "size_bytes": 135360980,
+      "sha256": "70781E2D6FE94FB0EAE5B15E838B4C5529A482053137E8920B4ABB31D402CA4C",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-qgroundcontrol-20261020",
+      "download_url": null
+    }
+  ]
+}

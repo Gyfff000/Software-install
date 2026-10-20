@@ -1,0 +1,17 @@
+{
+  "software": "ChemDraw",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "ChemDraw23_win.exe",
+      "asset_name": "08b770c3c6ae-ChemDraw23_win.exe",
+      "size_bytes": 1368040504,
+      "sha256": "08B770C3C6AEEBF57F43656A2AE7481F26BC980D448A615DE9682863677C3E59",
+      "product_version": "",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-chemdraw-20261020",
+      "download_url": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "software": "VisualGDB",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "VisualGDB-6.1r3-trial.msi",
+      "asset_name": "a222084ef80a-VisualGDB-6.1r3-trial.msi",
+      "size_bytes": 72179712,
+      "sha256": "A222084EF80A0F4E56385B7C5E0E1EE68147AC074EC9F2A98F3E905F6F1E66EC",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-visualgdb-20261020",
+      "download_url": null
+    }
+  ]
+}

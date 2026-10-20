@@ -1,0 +1,28 @@
+{
+  "software": "TRAE",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "TRAE_Work_CN-Setup-x64.exe",
+      "asset_name": "54b4f7967a40-TRAE_Work_CN-Setup-x64.exe",
+      "size_bytes": 311949136,
+      "sha256": "54B4F7967A4017A68512F51E4603348F8AD8ABD1F07FCAA4D5D84D33C35B2F90",
+      "product_version": "0.1.19                                            ",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-trae-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "TRAE SOLOSetup-stable-2.3.70844.exe",
+      "asset_name": "91ea871a0fd2-TRAE_SOLOSetup-stable-2.3.70844.exe",
+      "size_bytes": 355830848,
+      "sha256": "91EA871A0FD2EDD8034D9F3439931D6DA7FF316C99F49B4BE611EF2EA93A700E",
+      "product_version": "0.1.50                                            ",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-trae-20261020",
+      "download_url": null
+    }
+  ]
+}

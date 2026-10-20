@@ -1,0 +1,17 @@
+{
+  "software": "UU加速器",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "UU-5.78.1.exe",
+      "asset_name": "0c4d9bed852b-UU-5.78.1.exe",
+      "size_bytes": 38929400,
+      "sha256": "0C4D9BED852BD10571A92FBDEB16AD7E5437AEDF2608C20669D1071EDB4DF8D5",
+      "product_version": "5.78.1.554",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-uu-accelerator-20261020",
+      "download_url": null
+    }
+  ]
+}

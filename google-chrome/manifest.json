@@ -1,0 +1,17 @@
+{
+  "software": "Google Chrome",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "ChromeSetup.exe",
+      "asset_name": "2a8c89a6948b-ChromeSetup.exe",
+      "size_bytes": 10752440,
+      "sha256": "2A8C89A6948BAAE9EC59957C6906F9A527D833E69A0E1D5ACA7B93B818D3CBF2",
+      "product_version": "144.0.7547.0",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-google-chrome-20261020",
+      "download_url": null
+    }
+  ]
+}

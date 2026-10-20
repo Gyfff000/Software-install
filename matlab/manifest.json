@@ -1,0 +1,17 @@
+{
+  "software": "MATLAB",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "matlab_R2025a_Windows.exe",
+      "asset_name": "475d7ebec766-matlab_R2025a_Windows.exe",
+      "size_bytes": 233093408,
+      "sha256": "475D7EBEC766F2F5BE1E26826667A01BFFD8416A648E61B30F82A7F4D6971B8B",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-matlab-20261020",
+      "download_url": null
+    }
+  ]
+}

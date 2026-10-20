@@ -1,0 +1,17 @@
+{
+  "software": "OpenCV",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "opencv-4.11.0-windows.exe",
+      "asset_name": "7c9d1c0b70db-opencv-4.11.0-windows.exe",
+      "size_bytes": 185089042,
+      "sha256": "7C9D1C0B70DB1B1952CC815252FCED9A07F51267563CF3EAA1674D734C49B8E4",
+      "product_version": "9.20",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-opencv-20261020",
+      "download_url": null
+    }
+  ]
+}

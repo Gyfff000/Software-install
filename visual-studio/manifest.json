@@ -1,0 +1,17 @@
+{
+  "software": "Visual Studio",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "VisualStudioSetup.exe",
+      "asset_name": "069f7465867f-VisualStudioSetup.exe",
+      "size_bytes": 4436080,
+      "sha256": "069F7465867F140B9F6CC65C1E32B9256DFBC47BB3557A02E9D14D28ACBA21A4",
+      "product_version": "Visual Studio 2026 Insiders",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-visual-studio-20261020",
+      "download_url": null
+    }
+  ]
+}

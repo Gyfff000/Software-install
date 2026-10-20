@@ -1,0 +1,17 @@
+{
+  "software": "STM32CubeMX",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "stm32cubemx-win-v6-16-1.zip",
+      "asset_name": "9048e8baaa1e-stm32cubemx-win-v6-16-1.zip",
+      "size_bytes": 671961956,
+      "sha256": "9048E8BAAA1EA9C9C921819FE99672C1DDB48810DDDD2FD243534822003F512B",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-stm32cubemx-20261020",
+      "download_url": null
+    }
+  ]
+}

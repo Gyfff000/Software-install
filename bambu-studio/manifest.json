@@ -1,0 +1,39 @@
+{
+  "software": "Bambu Studio",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "Bambu_Studio_win-v02.03.01.51.exe",
+      "asset_name": "1162f3a0e235-Bambu_Studio_win-v02.03.01.51.exe",
+      "size_bytes": 266520768,
+      "sha256": "1162F3A0E235B6B68D8993D431AF810B4F5A35D085707AA8B4C4EF27826311F1",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-bambu-studio-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "Bambu_Studio_win-v02.00.03.54.exe",
+      "asset_name": "2f2bc654c075-Bambu_Studio_win-v02.00.03.54.exe",
+      "size_bytes": 241450328,
+      "sha256": "2F2BC654C07553B2E1157CFC7F61A87C87FCE5D534A0C4EC94CB9EB1B65D8D19",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-bambu-studio-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "Bambu_Studio_win-v02.05.00.66.exe",
+      "asset_name": "fab33011933f-Bambu_Studio_win-v02.05.00.66.exe",
+      "size_bytes": 292001872,
+      "sha256": "FAB33011933F6807A7694C4EDC0DDB84362D789B5E8974EA01042ED6EADBEFB9",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-bambu-studio-20261020",
+      "download_url": null
+    }
+  ]
+}

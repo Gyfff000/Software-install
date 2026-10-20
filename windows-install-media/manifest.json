@@ -1,0 +1,28 @@
+{
+  "software": "Windows安装镜像",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "Windows+XP+SP3+简体中文+32位.iso",
+      "asset_name": "39430c2b8dd5-Windows_XP_SP3______32_.iso",
+      "size_bytes": 630237184,
+      "sha256": "39430C2B8DD5C21BBD5AF9116573F8C574AE896CE31D47280914EF268F01E33F",
+      "product_version": null,
+      "local_copy_count": 2,
+      "status": "pending_upload",
+      "release_tag": "archive-windows-install-media-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "Win11_25H2_Chinese_Simplified_x64.iso",
+      "asset_name": "3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso",
+      "size_bytes": 7774558208,
+      "sha256": "3BA0E9FF816088F054077B94C2229BA290D984975AB5CED420123CD46DCECBD0",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-windows-install-media-20261020",
+      "download_url": null
+    }
+  ]
+}

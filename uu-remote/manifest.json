@@ -1,0 +1,17 @@
+{
+  "software": "UU远程",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "UURemote_Setup_3.12.0.3969_0512230725_gwqd.exe",
+      "asset_name": "018b7c273390-UURemote_Setup_3.12.0.3969_0512230725_gwqd.exe",
+      "size_bytes": 58577592,
+      "sha256": "018B7C27339080A28518BD3BCAD3F905953853468E394B97FE82EB1EEB240E36",
+      "product_version": "",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-uu-remote-20261020",
+      "download_url": null
+    }
+  ]
+}

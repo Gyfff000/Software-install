@@ -1,0 +1,17 @@
+{
+  "software": "标准阅读器",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "standardreader.exe",
+      "asset_name": "dcf6f75535ed-standardreader.exe",
+      "size_bytes": 33069552,
+      "sha256": "DCF6F75535EDD4F912DC355F79EAB7A652B3DD762CCA2BB7E7FC6BD0C9CFBBA1",
+      "product_version": "6.00.2900.5512",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-standard-reader-20261020",
+      "download_url": null
+    }
+  ]
+}

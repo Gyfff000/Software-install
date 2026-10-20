@@ -1,0 +1,17 @@
+{
+  "software": "豆包",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "doubao_client_kxj_26m8_windows_v2025016_bdb3_1787899535.exe",
+      "asset_name": "b4ad0262508e-doubao_client_kxj_26m8_windows_v2025016_bdb3_1787899535.exe",
+      "size_bytes": 7364064,
+      "sha256": "B4AD0262508E6CD3BC280FCB635314EF163355311A8142CF68754F10F5AD929D",
+      "product_version": "2.25.16",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-doubao-20261020",
+      "download_url": null
+    }
+  ]
+}

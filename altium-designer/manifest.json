@@ -1,0 +1,39 @@
+{
+  "software": "Altium Designer",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "AltiumDesigner24.rar",
+      "asset_name": "53c942e83c10-AltiumDesigner24.rar",
+      "size_bytes": 3431702848,
+      "sha256": "53C942E83C100D603FF914B64F2A022D395CE19A8EAD9DD418C076418BF1D689",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-altium-designer-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "Altium_Designer_Public_25_8_1 (2).zip",
+      "asset_name": "6c52c4451724-Altium_Designer_Public_25_8_1__2_.zip",
+      "size_bytes": 3446798271,
+      "sha256": "6C52C445172442CEFE067E2FE5090D526F71911135B1F3481FF80C0B88C81001",
+      "product_version": null,
+      "local_copy_count": 3,
+      "status": "pending_upload",
+      "release_tag": "archive-altium-designer-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "AltiumDesigner0715_130022.exe",
+      "asset_name": "6c87ef25a9ce-AltiumDesigner0715_130022.exe",
+      "size_bytes": 33022376,
+      "sha256": "6C87EF25A9CE8F9EEB1378B877158A56A6EDF5F4A1872B3697BF806A60F10BC1",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-altium-designer-20261020",
+      "download_url": null
+    }
+  ]
+}

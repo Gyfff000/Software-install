@@ -1,0 +1,17 @@
+{
+  "software": "剪映",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "Jianying_40030524912821_installer.exe",
+      "asset_name": "9ac945243b81-Jianying_40030524912821_installer.exe",
+      "size_bytes": 2868872,
+      "sha256": "9AC945243B81B8BC08D496B460C07566DCDBF6E3783C0B9679C5A3D5B1F3F347",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-jianying-20261020",
+      "download_url": null
+    }
+  ]
+}

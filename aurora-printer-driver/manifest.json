@@ -1,0 +1,17 @@
+{
+  "software": "Aurora打印机驱动",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "Aurora-Generic-22BW_d1b51404.exe",
+      "asset_name": "b5aa35a1f01e-Aurora-Generic-22BW_d1b51404.exe",
+      "size_bytes": 9707872,
+      "sha256": "B5AA35A1F01ECB13D2AFE3D53B1ECA459F7E89C4CF7C36D394FB9589B5897AA2",
+      "product_version": "2.7.2.0",
+      "local_copy_count": 3,
+      "status": "pending_upload",
+      "release_tag": "archive-aurora-printer-driver-20261020",
+      "download_url": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "software": "通义灵码",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "lingma-2.5.18.zip",
+      "asset_name": "ea35cb3b6f2c-lingma-2.5.18.zip",
+      "size_bytes": 190362601,
+      "sha256": "EA35CB3B6F2CCC0E73A9C6C90F09B4E3ECDAF1016A8536CAC1352F0A208EE7BE",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-lingma-20261020",
+      "download_url": null
+    }
+  ]
+}

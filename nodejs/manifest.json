@@ -1,0 +1,28 @@
+{
+  "software": "Node.js",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "node-v24.18.1-x64.msi",
+      "asset_name": "af4a0651a26f-node-v24.18.1-x64.msi",
+      "size_bytes": 32874496,
+      "sha256": "AF4A0651A26F04AC240F00FEC872F305547CA2AA56301C41DFD63A29EB2AB836",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-nodejs-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "node-v24.14.0-x64.msi",
+      "asset_name": "e75802e82be6-node-v24.14.0-x64.msi",
+      "size_bytes": 32280576,
+      "sha256": "E75802E82BE6875B03B63377A9E12E4416799D0FB6DD460F0605D29144D386A6",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-nodejs-20261020",
+      "download_url": null
+    }
+  ]
+}

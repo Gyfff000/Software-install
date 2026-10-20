@@ -1,0 +1,17 @@
+{
+  "software": "QQ",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "QQ_bl180221050.exe",
+      "asset_name": "a216debace43-QQ_bl180221050.exe",
+      "size_bytes": 5336536,
+      "sha256": "A216DEBACE43F80A4D28D73C4E1C8B492669F2107C6EBB2EEBCFB1AB2B3EC16D",
+      "product_version": "6.1025.1275.411",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-qq-20261020",
+      "download_url": null
+    }
+  ]
+}

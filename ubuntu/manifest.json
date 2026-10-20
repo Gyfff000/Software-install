@@ -1,0 +1,50 @@
+{
+  "software": "Ubuntu",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "ubuntu-26.04-desktop-amd64.iso",
+      "asset_name": "487f87faaf54-ubuntu-26.04-desktop-amd64.iso",
+      "size_bytes": 6518974464,
+      "sha256": "487F87FAAF547EA30E0ABA4D5B53346292571256B25333A978DB1692BCEE9DD2",
+      "product_version": null,
+      "local_copy_count": 2,
+      "status": "pending_upload",
+      "release_tag": "archive-ubuntu-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "ubuntu-24.04.4-desktop-amd64.iso",
+      "asset_name": "759f37a3a717-ubuntu-24.04.4-desktop-amd64.iso",
+      "size_bytes": 1015214080,
+      "sha256": "759F37A3A717CF7C1F06E3FE3DF3AB39C5E9783AE2D789DF2D2E46E867B151C3",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "held_incomplete_iso",
+      "release_tag": "archive-ubuntu-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "ubuntu-22.04.5-desktop-amd64.iso",
+      "asset_name": "bfd1cee02bc4-ubuntu-22.04.5-desktop-amd64.iso",
+      "size_bytes": 4762707968,
+      "sha256": "BFD1CEE02BC4F35DB939E69B934BA49A39A378797CE9AEE20F6E3E3E728FEFBF",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-ubuntu-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "ubuntu-26.04-live-server-amd64 (1).iso",
+      "asset_name": "dec49008a71f-ubuntu-26.04-live-server-amd64__1_.iso",
+      "size_bytes": 2918598656,
+      "sha256": "DEC49008A71F6098D0BCFC822021F4D042D5F2DB279E4D75BDD981304F1CA5D9",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-ubuntu-20261020",
+      "download_url": null
+    }
+  ]
+}

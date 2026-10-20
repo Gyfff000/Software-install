@@ -1,0 +1,17 @@
+{
+  "software": "GitHub Desktop",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "GitHubDesktopSetup-x64.exe",
+      "asset_name": "8562ae4128ff-GitHubDesktopSetup-x64.exe",
+      "size_bytes": 189960672,
+      "sha256": "8562AE4128FF17FA0848D9E57B05681B3C3EB4C85A694ED75D39CBA17A8370DF",
+      "product_version": "3.5.7",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-github-desktop-20261020",
+      "download_url": null
+    }
+  ]
+}

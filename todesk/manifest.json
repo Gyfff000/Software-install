@@ -1,0 +1,17 @@
+{
+  "software": "ToDesk",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "ToDesk_Installer.exe",
+      "asset_name": "96e3691705e7-ToDesk_Installer.exe",
+      "size_bytes": 4131840,
+      "sha256": "96E3691705E719A96ABFC429CCDE507321AC0C17534D54171FE0CE47A186E7CD",
+      "product_version": "1.1.0",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-todesk-20261020",
+      "download_url": null
+    }
+  ]
+}

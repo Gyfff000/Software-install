@@ -1,0 +1,17 @@
+{
+  "software": "STM32固件包",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "stm32cube_fw_f1_v180.zip",
+      "asset_name": "596265f3a5c9-stm32cube_fw_f1_v180.zip",
+      "size_bytes": 115150768,
+      "sha256": "596265F3A5C9F4B069AD2854C3AE054E32BC434BC3E58A6EE6DCB6775C268B6E",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-stm32-firmware-20261020",
+      "download_url": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "software": "QClaw",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "QClaw-Setup-0.2.35-5001-624_silent.exe",
+      "asset_name": "0d057ff89221-QClaw-Setup-0.2.35-5001-624_silent.exe",
+      "size_bytes": 565753424,
+      "sha256": "0D057FF892219C3FA67F8AB9933CCB01473160607ABA6183555E736C6A9F997B",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-qclaw-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "QClaw-Setup-latest.exe",
+      "asset_name": "5b07fe8417d0-QClaw-Setup-latest.exe",
+      "size_bytes": 159141200,
+      "sha256": "5B07FE8417D0B71B75E28339AD18C4796FAAE487BFE0B365F211FA67DF828258",
+      "product_version": "0.1.9",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-qclaw-20261020",
+      "download_url": null
+    }
+  ]
+}

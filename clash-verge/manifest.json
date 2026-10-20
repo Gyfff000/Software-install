@@ -1,0 +1,17 @@
+{
+  "software": "Clash Verge",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "Clash.Verge_2.4.7_x64-setup (2).exe",
+      "asset_name": "6642881b212b-Clash.Verge_2.4.7_x64-setup__2_.exe",
+      "size_bytes": 38672014,
+      "sha256": "6642881B212BCD4766E81D56AEC7497063BA5198C287F7D00A2ECF13B6F8B61A",
+      "product_version": "2.4.7",
+      "local_copy_count": 2,
+      "status": "pending_upload",
+      "release_tag": "archive-clash-verge-20261020",
+      "download_url": null
+    }
+  ]
+}

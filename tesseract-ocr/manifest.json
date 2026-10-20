@@ -1,0 +1,17 @@
+{
+  "software": "Tesseract OCR",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "tesseract-ocr-w64-setup-5.5.0.20241111.exe",
+      "asset_name": "f3fc4236425b-tesseract-ocr-w64-setup-5.5.0.20241111.exe",
+      "size_bytes": 21381872,
+      "sha256": "F3FC4236425B690C8BE756F35793F77394EE004BE0A6460A440C754D892F68BC",
+      "product_version": "5.5.0.20241111",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-tesseract-ocr-20261020",
+      "download_url": null
+    }
+  ]
+}

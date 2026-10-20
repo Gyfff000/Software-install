@@ -1,0 +1,28 @@
+{
+  "software": "CC Switch",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "CC-Switch-v3.18.0-Windows.msi",
+      "asset_name": "c4a6eaf76326-CC-Switch-v3.18.0-Windows.msi",
+      "size_bytes": 12849152,
+      "sha256": "C4A6EAF763269396F90A81377381E91C8341538B51376912C81BAB73E844612D",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-cc-switch-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "CC-Switch-v3.16.0-Windows.msi",
+      "asset_name": "f81d4b16c629-CC-Switch-v3.16.0-Windows.msi",
+      "size_bytes": 13651968,
+      "sha256": "F81D4B16C629E824F9967BE5B4B8BBEA8B8D5937B3FBB0A74E91D03E4EE1C5E9",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-cc-switch-20261020",
+      "download_url": null
+    }
+  ]
+}

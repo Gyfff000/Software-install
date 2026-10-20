@@ -1,0 +1,17 @@
+{
+  "software": "GCKontrol",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "GCKontrol10.1.1_1776493745747.exe",
+      "asset_name": "017ea8a39855-GCKontrol10.1.1_1776493745747.exe",
+      "size_bytes": 2265681776,
+      "sha256": "017EA8A398556ED89EC39CE5C820DE4FE4F80186AA1057BD4FA7FA9608AB9212",
+      "product_version": "10.1.1",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-gckontrol-20261020",
+      "download_url": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "software": "Rainmeter",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "Rainmeter-4.5.23.exe",
+      "asset_name": "a613e59a8e51-Rainmeter-4.5.23.exe",
+      "size_bytes": 2552240,
+      "sha256": "A613E59A8E51511330B9DA874A2FC928266F44CA4FEBB117910001BB3D9C5E69",
+      "product_version": "4.5.23.3836",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-rainmeter-20261020",
+      "download_url": null
+    }
+  ]
+}

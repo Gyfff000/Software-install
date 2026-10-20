@@ -1,0 +1,17 @@
+{
+  "software": "DJI NAZA-M LITE",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "NAZA-M LITE_Installer_1.00.exe",
+      "asset_name": "8d16d4d8084a-NAZA-M_LITE_Installer_1.00.exe",
+      "size_bytes": 11742149,
+      "sha256": "8D16D4D8084A861338C5A4B2865CCB51EF6AA3FACC2449753B5C54FE40CD6B6E",
+      "product_version": "1.00                ",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-dji-naza-20261020",
+      "download_url": null
+    }
+  ]
+}

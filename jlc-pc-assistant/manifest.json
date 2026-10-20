@@ -1,0 +1,17 @@
+{
+  "software": "嘉立创PC助手",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "JLCPcAssit_setup_5.1.21.zip",
+      "asset_name": "ffe2f512f941-JLCPcAssit_setup_5.1.21.zip",
+      "size_bytes": 72245737,
+      "sha256": "FFE2F512F941708E761521B4D2245B5D809D94E27667D962D1BA2878808DBB20",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-jlc-pc-assistant-20261020",
+      "download_url": null
+    }
+  ]
+}

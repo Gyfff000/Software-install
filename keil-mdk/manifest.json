@@ -1,0 +1,39 @@
+{
+  "software": "Keil MDK",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "MDK524a.EXE",
+      "asset_name": "172f5dd24368-MDK524a.EXE",
+      "size_bytes": 815629048,
+      "sha256": "172F5DD24368322CC6C6F73F0308DDDBEB353D4324EF721F34CC85AAAB320582",
+      "product_version": "1.37.13.0",
+      "local_copy_count": 3,
+      "status": "pending_upload",
+      "release_tag": "archive-keil-mdk-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "MDK543a.exe",
+      "asset_name": "5702ed209368-MDK543a.exe",
+      "size_bytes": 893488656,
+      "sha256": "5702ED2093680932DA3466134885B2141297099DF106E5090C38F65A9510B7CA",
+      "product_version": "1.39.0.7",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-keil-mdk-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "MDK542a (2).exe",
+      "asset_name": "d428fa2d4e3d-MDK542a__2_.exe",
+      "size_bytes": 890473600,
+      "sha256": "D428FA2D4E3D22E9E78EC162B0F9839BDFD3C4546EBAE01050FC02EB7F188369",
+      "product_version": "1.39.0.0",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-keil-mdk-20261020",
+      "download_url": null
+    }
+  ]
+}

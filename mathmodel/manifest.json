@@ -1,0 +1,17 @@
+{
+  "software": "数学建模工具",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "mathmodel-0.0.18-x64.exe",
+      "asset_name": "7f7f8971bd33-mathmodel-0.0.18-x64.exe",
+      "size_bytes": 324202109,
+      "sha256": "7F7F8971BD338638796EE2F469B4D013D059D331FE83A7DB1C98206ED1ED697A",
+      "product_version": "0.0.18",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-mathmodel-20261020",
+      "download_url": null
+    }
+  ]
+}

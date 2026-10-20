@@ -1,0 +1,17 @@
+{
+  "software": "串口调试助手",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "UartAssist.exe",
+      "asset_name": "2633c3adf2d6-UartAssist.exe",
+      "size_bytes": 631808,
+      "sha256": "2633C3ADF2D6344004D7D09623FE8484A5A859D313E696B8C8E082B465135902",
+      "product_version": "1.0.0.0",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-uart-assistant-20261020",
+      "download_url": null
+    }
+  ]
+}

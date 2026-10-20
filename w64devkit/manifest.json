@@ -1,0 +1,17 @@
+{
+  "software": "w64devkit",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "w64devkit-x64-2.8.0.7z.exe",
+      "asset_name": "6252bf34fe22-w64devkit-x64-2.8.0.7z.exe",
+      "size_bytes": 60043168,
+      "sha256": "6252BF34FE2231A55AC7F03D482B36D2C7C58697990551BBA508102CFB3F342E",
+      "product_version": "23.01",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-w64devkit-20261020",
+      "download_url": null
+    }
+  ]
+}

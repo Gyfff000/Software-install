@@ -1,0 +1,17 @@
+{
+  "software": "Flash中心",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "flashcenter_pp_ax_install_cn.exe",
+      "asset_name": "1c957470b21b-flashcenter_pp_ax_install_cn.exe",
+      "size_bytes": 6678232,
+      "sha256": "1C957470B21BF90073C593B020140C8C798AD8BDB2CE5F5D344E9E9C53242556",
+      "product_version": "3.0.0.758s",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-flash-center-20261020",
+      "download_url": null
+    }
+  ]
+}

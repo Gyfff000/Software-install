@@ -1,0 +1,17 @@
+{
+  "software": "Sublime Text",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "sublime_text_build_4200_x64_setup.exe",
+      "asset_name": "3d3c70e51aef-sublime_text_build_4200_x64_setup.exe",
+      "size_bytes": 16200128,
+      "sha256": "3D3C70E51AEF08F85D7160BCC70793BED9ACEC250973090AB67D98987BCE7C7E",
+      "product_version": "                                                  ",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-sublime-text-20261020",
+      "download_url": null
+    }
+  ]
+}

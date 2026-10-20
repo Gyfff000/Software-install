@@ -1,0 +1,17 @@
+{
+  "software": "Rufus",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "rufus-4.14p (1).exe",
+      "asset_name": "9fcad316c82b-rufus-4.14p__1_.exe",
+      "size_bytes": 2002280,
+      "sha256": "9FCAD316C82BA3D0C3130C9F43FB0FE147E9EB62E1BF830716A0BBB6C58D24EE",
+      "product_version": "4.14.2377",
+      "local_copy_count": 2,
+      "status": "pending_upload",
+      "release_tag": "archive-rufus-20261020",
+      "download_url": null
+    }
+  ]
+}

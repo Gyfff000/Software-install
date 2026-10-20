@@ -1,0 +1,17 @@
+{
+  "software": "电应普超声波调试助手",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "电应普超声波传感器调试助手 V1.0.5.0(7).7z",
+      "asset_name": "045b80a5bf2e-______________V1.0.5.0_7_.7z",
+      "size_bytes": 61182622,
+      "sha256": "045B80A5BF2ED59180DB8CD646EE548AD7D9D0BC9095604AFAE72FBBB8D59836",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-ultrasonic-debug-tool-20261020",
+      "download_url": null
+    }
+  ]
+}

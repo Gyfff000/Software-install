@@ -1,0 +1,17 @@
+{
+  "software": "Factory IO",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "factoryio-installer-latest.exe",
+      "asset_name": "c43a44964ba3-factoryio-installer-latest.exe",
+      "size_bytes": 277069272,
+      "sha256": "C43A44964BA3993B5DE6BE7564BBB17160384E822CC0E4AECD2E2F61629439CF",
+      "product_version": "2.5.10",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-factory-io-20261020",
+      "download_url": null
+    }
+  ]
+}

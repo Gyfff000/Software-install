@@ -1,0 +1,39 @@
+{
+  "software": "腾讯视频",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "QQliveSetup_20_847.exe",
+      "asset_name": "3b89cb533147-QQliveSetup_20_847.exe",
+      "size_bytes": 187164928,
+      "sha256": "3B89CB533147971B13F4F3332B5D2E768E6E3CA50CC5F434FA399E0D811F43DD",
+      "product_version": "",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-tencent-video-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "QQliveSetup_20_847 (1).exe",
+      "asset_name": "7c62fe6cf172-QQliveSetup_20_847__1_.exe",
+      "size_bytes": 189919768,
+      "sha256": "7C62FE6CF172A4B5BD0E39E1E2E6C90C87DB75F5BD90A04E46A288A79246D8B4",
+      "product_version": "",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-tencent-video-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "QQliveSetup_20_847 (2).exe",
+      "asset_name": "be8b094b0df0-QQliveSetup_20_847__2_.exe",
+      "size_bytes": 193525416,
+      "sha256": "BE8B094B0DF0DE460EDF0E80014E021289D509B82DDC056040D697855A9D5109",
+      "product_version": "",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-tencent-video-20261020",
+      "download_url": null
+    }
+  ]
+}

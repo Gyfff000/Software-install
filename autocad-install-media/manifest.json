@@ -1,0 +1,17 @@
+{
+  "software": "AutoCAD安装介质",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "CAD2024.rar",
+      "asset_name": "f98c59ff8653-CAD2024.rar",
+      "size_bytes": 2540533560,
+      "sha256": "F98C59FF865389504EA0500D064FFDF70BAC8A9ED925975ADE9D4DFBDEE8B97F",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-autocad-install-media-20261020",
+      "download_url": null
+    }
+  ]
+}

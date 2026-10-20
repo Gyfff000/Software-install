@@ -1,0 +1,17 @@
+{
+  "software": "Codex",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "Codex Installer.exe",
+      "asset_name": "04dab877f89b-Codex_Installer.exe",
+      "size_bytes": 1294880,
+      "sha256": "04DAB877F89B46218589344952E539417780943E9D73D161DE2A8A8B1A7EE654",
+      "product_version": "22604.0423.01.0+edefbe76210e5e9884f2bc7198e99509f85977b7",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-codex-20261020",
+      "download_url": null
+    }
+  ]
+}

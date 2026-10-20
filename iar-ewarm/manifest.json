@@ -1,0 +1,17 @@
+{
+  "software": "IAR Embedded Workbench for Arm",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "EWARM-9401-63915.exe",
+      "asset_name": "c602ad024ced-EWARM-9401-63915.exe",
+      "size_bytes": 1725591744,
+      "sha256": "C602AD024CED47295965BE01E91FEC5A34A6EC8F780D6A6D51D4522964EB7A45",
+      "product_version": "9.40.1",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-iar-ewarm-20261020",
+      "download_url": null
+    }
+  ]
+}

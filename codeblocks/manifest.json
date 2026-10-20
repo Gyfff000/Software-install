@@ -1,0 +1,17 @@
+{
+  "software": "CodeBlocks",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "codeblocks-20.03mingw-setup.exe",
+      "asset_name": "862479a6d45b-codeblocks-20.03mingw-setup.exe",
+      "size_bytes": 152419674,
+      "sha256": "862479A6D45B8A36FFC09FC4C63CD0850155088E33BD8CAD9075FB6FCB1F43C2",
+      "product_version": "20.03",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-codeblocks-20261020",
+      "download_url": null
+    }
+  ]
+}

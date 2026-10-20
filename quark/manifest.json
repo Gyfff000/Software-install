@@ -1,0 +1,28 @@
+{
+  "software": "夸克",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "QuarkPC_V2.7.0.328_pc_pf30002_(zh-cn)_release_(Build2184391-250508134114-x64).exe",
+      "asset_name": "66e3c6775364-QuarkPC_V2.7.0.328_pc_pf30002__zh-cn__release__Build2184391-250508134114-x64_.exe",
+      "size_bytes": 261180688,
+      "sha256": "66E3C6775364699AF33F4D52975CABAA0A5ED23F9BD18465651F7346825B985D",
+      "product_version": "2.7.0.328                                         ",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-quark-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "Quark_V6.4.0.728@@@dapi-fda13f19-bb4e-4321-9f48-ee0b457000a0@@@.exe",
+      "asset_name": "b4eb3a0dcc96-Quark_V6.4.0.728___dapi-fda13f19-bb4e-4321-9f48-ee0b457000a0___.exe",
+      "size_bytes": 3308344,
+      "sha256": "B4EB3A0DCC9639FF1E2D92B9B78789D8C9DF063E59CBDD607937653DD24AA480",
+      "product_version": "3.0.1.6",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-quark-20261020",
+      "download_url": null
+    }
+  ]
+}

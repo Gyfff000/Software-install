@@ -1,0 +1,17 @@
+{
+  "software": "OOPZ",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "oopz_setup_v1.2.8.10.exe",
+      "asset_name": "3f3e7175a8f6-oopz_setup_v1.2.8.10.exe",
+      "size_bytes": 238401312,
+      "sha256": "3F3E7175A8F693647D4E1B23D712DCEA28F7B5E85432DF326D9A7796A82C1FBC",
+      "product_version": "0.57.16.0",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-oopz-20261020",
+      "download_url": null
+    }
+  ]
+}

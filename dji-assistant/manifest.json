@@ -1,0 +1,17 @@
+{
+  "software": "DJI Assistant 2",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "DJI+Assistant+2+1.2.5.exe",
+      "asset_name": "70608a38968d-DJI_Assistant_2_1.2.5.exe",
+      "size_bytes": 236715616,
+      "sha256": "70608A38968DCE4DAE7D726139F65890ACC5B437952C4D655E27E29EB2F6837C",
+      "product_version": "V1.2.5                                            ",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-dji-assistant-20261020",
+      "download_url": null
+    }
+  ]
+}

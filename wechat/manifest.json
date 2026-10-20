@@ -1,0 +1,28 @@
+{
+  "software": "微信",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "WeChatWin.exe",
+      "asset_name": "22f906689292-WeChatWin.exe",
+      "size_bytes": 200609960,
+      "sha256": "22F906689292009E98276EAC17044443E7041516E9D5224BAE91BD2D842F9288",
+      "product_version": "4.0.5.0",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-wechat-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "WeChatWin_4.1.0.18.exe",
+      "asset_name": "c9484df8f106-WeChatWin_4.1.0.18.exe",
+      "size_bytes": 209848936,
+      "sha256": "C9484DF8F106DD74295582F29870237AC4D6D1515B5EAB1D3E04557C0368705D",
+      "product_version": "4.1.0.0",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-wechat-20261020",
+      "download_url": null
+    }
+  ]
+}
