@@ -69,9 +69,18 @@
       "sha256": "3EEEAFF24260DEC6BA3ABEB5D93C6C8BCA699E9E8B057A17A00899114BCEB107",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-originpro-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-originpro-20261020",
+      "assets": [
+        {
+          "name": "3eeeaff24260-data1.cab",
+          "size_bytes": 68718928,
+          "sha256": "3eeeaff24260dec6ba3abeb5d93c6c8bca699e9e8b057a17a00899114bceb107",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-e4954a80018163018e19/3eeeaff24260-data1.cab",
+          "asset_id": 658455321
+        }
+      ]
     },
     {
       "filename": "ISSetup.dll",
