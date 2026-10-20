@@ -1,0 +1,17 @@
+{
+  "software": "Siemens S7-PLCSIM V16",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "SIMATIC_S7PLCSIM_V16.exe",
+      "asset_name": "85435faa5dc7-SIMATIC_S7PLCSIM_V16.exe",
+      "size_bytes": 1853425256,
+      "sha256": "85435FAA5DC7A6446749012A814FAB07DEF5A8FAB5317A20CE10794127C6E886",
+      "product_version": "16.00.0000",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-siemens-plcsim-20261020",
+      "download_url": null
+    }
+  ]
+}

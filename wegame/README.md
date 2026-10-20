@@ -8,7 +8,9 @@
 | --- | ---: | --- |
 | WeGameMiniLoader.std.7.06.27.1446 (1).exe | 7266616 | pending_upload |
 | WeGameSetup5.0.4.8192_launcher_0_0.exe | 229278560 | pending_upload |
+| 19002240_27819_a11179_1.100.0.100_0_DJAw3N.exe | 29382248 | pending_upload |
+| 19002280_27819_a11183_1.100.0.100_0_Y7yt6K.exe | 29385448 | pending_upload |
 
 详细校验值、附件名与分卷顺序见 [manifest.json](manifest.json)。已完成附件入口：
 
-分卷恢复：先下载该安装包的全部 .partNNN 文件和 manifest.json，在这些文件所在目录运行仓库 scripts/Restore-Parts.ps1 -ManifestPath manifest.json。单文件附件可直接下载，按 manifest 中 SHA-256 核对。
+恢复：下载所需安装包的所有附件和 manifest.json，在附件所在目录运行仓库 scripts/Restore-Parts.ps1 -ManifestPath manifest.json。该脚本按清单恢复原始文件名，合并分卷并校验完整文件。厂商分卷介质还需要下载同组全部原始分卷与启动EXE。

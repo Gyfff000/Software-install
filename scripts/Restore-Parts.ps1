@@ -3,10 +3,15 @@ $ErrorActionPreference='Stop'
 $manifest=Get-Content -LiteralPath $ManifestPath -Raw | ConvertFrom-Json
 $base=Split-Path -Parent (Resolve-Path -LiteralPath $ManifestPath).Path
 foreach($package in $manifest.packages){
- if($package.status -ne 'uploaded_verified' -or @($package.assets).Count -lt 2){continue}
+ if($package.status -ne 'uploaded_verified' -or @($package.assets).Count -lt 1){continue}
+ $available=@($package.assets | Where-Object {Test-Path -LiteralPath (Join-Path $base $_.name) -PathType Leaf})
+ if($available.Count -eq 0){continue}
  if([IO.Path]::GetFileName($package.filename) -ne $package.filename){throw 'Unexpected output filename'}
  $destination=Join-Path $base $package.filename
- if(Test-Path -LiteralPath $destination){throw "Output already exists: $destination"}
+ if(Test-Path -LiteralPath $destination){
+  if((Get-FileHash -LiteralPath $destination -Algorithm SHA256).Hash -eq $package.sha256){Write-Output "Already verified: $($package.filename)";continue}
+  throw "Output already exists with different contents: $destination"
+ }
  foreach($asset in $package.assets){
   if([IO.Path]::GetFileName($asset.name) -ne $asset.name){throw 'Unexpected part filename'}
   $path=Join-Path $base $asset.name

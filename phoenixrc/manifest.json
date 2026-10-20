@@ -1,0 +1,17 @@
+{
+  "software": "PhoenixRC 凤凰模拟器",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "这个是软件-凤凰模拟器6（无人机-固定翼-直升机）.exe",
+      "asset_name": "e97e02365f9f-_____-_____6____-___-____.exe",
+      "size_bytes": 1490852410,
+      "sha256": "E97E02365F9FEF8EED1600CD10CE6F4BE1F07B0351C050C1A1C5D5E151385553",
+      "product_version": "1.0.0.0",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-phoenixrc-20261020",
+      "download_url": null
+    }
+  ]
+}

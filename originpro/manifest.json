@@ -1,0 +1,149 @@
+{
+  "software": "OriginPro 2018 安装介质",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "0x0411.ini",
+      "asset_name": "01b8625a29db-0x0411.ini",
+      "size_bytes": 14946,
+      "sha256": "01B8625A29DB41E0A190C0634EF3EE4F0878D2B56C92A407018B97BDF4ED7E7D",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "data1.hdr",
+      "asset_name": "03356bf406c4-data1.hdr",
+      "size_bytes": 1264506,
+      "sha256": "03356BF406C45C337243727670D8AD57B9954C5CDF895536B926EA46323C73E0",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "data2.cab",
+      "asset_name": "0c2469fe272d-data2.cab",
+      "size_bytes": 448023133,
+      "sha256": "0C2469FE272D960F27741FDD46CBBF20549E5D742098216FF7DD7303168DDD26",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "data1.cab",
+      "asset_name": "3eeeaff24260-data1.cab",
+      "size_bytes": 68718928,
+      "sha256": "3EEEAFF24260DEC6BA3ABEB5D93C6C8BCA699E9E8B057A17A00899114BCEB107",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "ISSetup.dll",
+      "asset_name": "74bd45bffffc-ISSetup.dll",
+      "size_bytes": 789504,
+      "sha256": "74BD45BFFFFC10F92FC025CEE0985CDB7D5160E6C22477AA1D879E76BEF1377E",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "0x0409.ini",
+      "asset_name": "8b76df0ffc9a-0x0409.ini",
+      "size_bytes": 22480,
+      "sha256": "8B76DF0FFC9A226B532B60936765B852B89780C6E475C152F7C320E085E43948",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "setup.ini",
+      "asset_name": "984faf77a874-setup.ini",
+      "size_bytes": 2446,
+      "sha256": "984FAF77A87411EE77F6C31EE2ED402ECF98956C2A9ACD0C97F8AF2FF96E1E8F",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "layout.bin",
+      "asset_name": "a49a8572c84a-layout.bin",
+      "size_bytes": 668,
+      "sha256": "A49A8572C84A549249E34384C91FF0497E3F094BD0247149D00AD08301F0ABB1",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "setup.exe",
+      "asset_name": "ab2cf5cc1d1a-setup.exe",
+      "size_bytes": 1190576,
+      "sha256": "AB2CF5CC1D1A739F5D5D33C162194F4661DEE99E204ECFF40922A59F56242748",
+      "product_version": "9.50.00",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "0x0804.ini",
+      "asset_name": "b70bdb0d1676-0x0804.ini",
+      "size_bytes": 10730,
+      "sha256": "B70BDB0D16766A3272574C74BA1485D1AFBAF2C7EFD93574C09DF759C578FB37",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "setup.bmp",
+      "asset_name": "c9270ad0dafc-setup.bmp",
+      "size_bytes": 147958,
+      "sha256": "C9270AD0DAFC7D76A9818FE71E9DDD30870579913380B44FD9F42FA7BADACE9B",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "setup.inx",
+      "asset_name": "d1d4dfe7a504-setup.inx",
+      "size_bytes": 410724,
+      "sha256": "D1D4DFE7A504158D6C9A6948C05B68B085B707CF7446C74DFE2B8E045E482E8F",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "0x0407.ini",
+      "asset_name": "e12ab3866c7d-0x0407.ini",
+      "size_bytes": 25858,
+      "sha256": "E12AB3866C7DAB7482E1D571D611549D4485A5D7DD808590D7717B028B9DB38B",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-originpro-20261020",
+      "download_url": null
+    }
+  ]
+}

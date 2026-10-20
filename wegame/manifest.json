@@ -23,6 +23,28 @@
       "status": "pending_upload",
       "release_tag": "archive-wegame-20261020",
       "download_url": null
+    },
+    {
+      "filename": "19002240_27819_a11179_1.100.0.100_0_DJAw3N.exe",
+      "asset_name": "20dd90574e5c-19002240_27819_a11179_1.100.0.100_0_DJAw3N.exe",
+      "size_bytes": 29382248,
+      "sha256": "20DD90574E5C971CA60010CAAF510DE3B28556FA635738B6647F2135E10EB3FE",
+      "product_version": "7.3.20.1946",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-wegame-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "19002280_27819_a11183_1.100.0.100_0_Y7yt6K.exe",
+      "asset_name": "8ca3c562c809-19002280_27819_a11183_1.100.0.100_0_Y7yt6K.exe",
+      "size_bytes": 29385448,
+      "sha256": "8CA3C562C809FA06C2B9F95AAEB8CED4FEE77AF7E9EB7E209C78FA54B1352704",
+      "product_version": "7.3.20.1946",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-wegame-20261020",
+      "download_url": null
     }
   ]
 }

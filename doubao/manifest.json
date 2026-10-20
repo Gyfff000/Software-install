@@ -9,9 +9,18 @@
       "sha256": "B4AD0262508E6CD3BC280FCB635314EF163355311A8142CF68754F10F5AD929D",
       "product_version": "2.25.16",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-doubao-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-doubao-20261020",
+      "assets": [
+        {
+          "name": "b4ad0262508e-doubao_client_kxj_26m8_windows_v2025016_bdb3_1787899535.exe",
+          "size_bytes": 7364064,
+          "sha256": "b4ad0262508e6cd3bc280fcb635314ef163355311a8142cf68754f10f5ad929d",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-ec3e72ec7e727e963ba5/b4ad0262508e-doubao_client_kxj_26m8_windows_v2025016_bdb3_1787899535.exe",
+          "asset_id": 658327643
+        }
+      ]
     }
   ]
 }

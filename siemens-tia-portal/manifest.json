@@ -1,0 +1,50 @@
+{
+  "software": "Siemens TIA Portal V16",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.001",
+      "asset_name": "1a11ec7aee32-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.001",
+      "size_bytes": 2147483647,
+      "sha256": "1A11EC7AEE32F7213D079555963FF3536F9CAF8634841B8051AEF8F939B41920",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-siemens-tia-portal-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.exe",
+      "asset_name": "3ada5355ecc8-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.exe",
+      "size_bytes": 2922504,
+      "sha256": "3ADA5355ECC8E124AAAE4D9F6FE1B19D6F762A8282D94FB1A474C6E214D4D0EF",
+      "product_version": "16.0.0.0",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-siemens-tia-portal-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.002",
+      "asset_name": "c63945239fc5-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.002",
+      "size_bytes": 2147483647,
+      "sha256": "C63945239FC59AD241893C4F0C7184806CA26693CB7C9FEE0BEB101879224D8A",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-siemens-tia-portal-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.003",
+      "asset_name": "f7d4565dba0d-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.003",
+      "size_bytes": 1398248053,
+      "sha256": "F7D4565DBA0D631A4421DC0E1C86D9841543D058804389FFD8539A1EE6F0E990",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-siemens-tia-portal-20261020",
+      "download_url": null
+    }
+  ]
+}

@@ -3,7 +3,7 @@ Here are installation packages for nearly all essential software for engineering
 
 ## 工科软件安装包归档
 每个软件一个目录，目录中包含文件清单、SHA-256与下载入口。实际安装包放在对应的GitHub Releases附件中；超过附件限制的文件按1GiB分卷。
-当前共 70 类软件；已上传并校验 10 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
+当前共 76 类软件；已上传并校验 13 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
 校验值用于确认备份字节一致，不代表官方来源、数字签名或授权认证。注册机、许可证文件、个人项目和本机路径不纳入公开归档。
 
 | 软件 | 安装包数 | 已完成 | 目录 |
@@ -25,13 +25,13 @@ Here are installation packages for nearly all essential software for engineering
 | CUMCM工具 | 1 | 0 | [cumcm-tool](cumcm-tool/) |
 | DJI Assistant 2 | 1 | 0 | [dji-assistant](dji-assistant/) |
 | DJI NAZA-M LITE | 1 | 0 | [dji-naza](dji-naza/) |
-| 豆包 | 1 | 0 | [doubao](doubao/) |
-| 抖音 | 2 | 0 | [douyin](douyin/) |
+| 豆包 | 1 | 1 | [doubao](doubao/) |
+| 抖音 | 2 | 1 | [douyin](douyin/) |
 | EasyConnect | 2 | 0 | [easyconnect](easyconnect/) |
 | ELF BOX | 1 | 0 | [elf-box](elf-box/) |
 | Factory IO | 1 | 0 | [factory-io](factory-io/) |
 | 飞书 | 2 | 0 | [feishu](feishu/) |
-| Flash中心 | 1 | 0 | [flash-center](flash-center/) |
+| Flash中心 | 1 | 1 | [flash-center](flash-center/) |
 | GCKontrol | 1 | 0 | [gckontrol](gckontrol/) |
 | GitHub Desktop | 1 | 0 | [github-desktop](github-desktop/) |
 | Google Chrome | 1 | 0 | [google-chrome](google-chrome/) |
@@ -76,7 +76,13 @@ Here are installation packages for nearly all essential software for engineering
 | Visual Studio Code | 1 | 0 | [vscode](vscode/) |
 | w64devkit | 1 | 0 | [w64devkit](w64devkit/) |
 | 微信 | 2 | 0 | [wechat](wechat/) |
-| WeGame | 2 | 0 | [wegame](wegame/) |
+| WeGame | 4 | 0 | [wegame](wegame/) |
 | Windows安装镜像 | 2 | 0 | [windows-install-media](windows-install-media/) |
+| 哔哩哔哩 | 1 | 0 | [bilibili](bilibili/) |
+| OriginPro 2018 安装介质 | 13 | 0 | [originpro](originpro/) |
+| PhoenixRC 凤凰模拟器 | 1 | 0 | [phoenixrc](phoenixrc/) |
+| Siemens S7-PLCSIM V16 | 1 | 0 | [siemens-plcsim](siemens-plcsim/) |
+| Siemens Startdrive Advanced V16 | 4 | 0 | [siemens-startdrive](siemens-startdrive/) |
+| Siemens TIA Portal V16 | 4 | 0 | [siemens-tia-portal](siemens-tia-portal/) |
 
 下载分卷后可使用 [Restore-Parts.ps1](scripts/Restore-Parts.ps1) 自动合并并核对完整文件SHA-256。

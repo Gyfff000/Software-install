@@ -1,0 +1,50 @@
+{
+  "software": "Siemens Startdrive Advanced V16",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "Startdrive_Advanced_V16.exe",
+      "asset_name": "0fff5bf342fb-Startdrive_Advanced_V16.exe",
+      "size_bytes": 2901552,
+      "sha256": "0FFF5BF342FB7B444075012BDE9821C304845FCACFD04C80C6D7A2B32E8D0F5B",
+      "product_version": "01.00.0000",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-siemens-startdrive-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "Startdrive_Advanced_V16.001",
+      "asset_name": "5846b0cf1fab-Startdrive_Advanced_V16.001",
+      "size_bytes": 2147483647,
+      "sha256": "5846B0CF1FABDC08F5A7C9A6E61B32544B5DAD6074E42EFA9C0EE336DAC0F893",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-siemens-startdrive-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "Startdrive_Advanced_V16.003",
+      "asset_name": "68f21492650c-Startdrive_Advanced_V16.003",
+      "size_bytes": 642460405,
+      "sha256": "68F21492650CC566A676DBE8C101B6286E05DC55D26967C9E748D5F7A9CC9156",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-siemens-startdrive-20261020",
+      "download_url": null
+    },
+    {
+      "filename": "Startdrive_Advanced_V16.002",
+      "asset_name": "9d05d1fab0c5-Startdrive_Advanced_V16.002",
+      "size_bytes": 2147483647,
+      "sha256": "9D05D1FAB0C5AE5054A2A8E08D94112603AA9E6D36EBBDE330375A319EC41D54",
+      "product_version": null,
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-siemens-startdrive-20261020",
+      "download_url": null
+    }
+  ]
+}

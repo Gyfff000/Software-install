@@ -1,0 +1,17 @@
+{
+  "software": "哔哩哔哩",
+  "schema_version": 1,
+  "packages": [
+    {
+      "filename": "installer.exe",
+      "asset_name": "ad936bcc168b-installer.exe",
+      "size_bytes": 209831216,
+      "sha256": "AD936BCC168B7E5ACD694FB5E98F1A5BB38E1556231AC31798B599916656F0DD",
+      "product_version": "1.16.5",
+      "local_copy_count": 1,
+      "status": "pending_upload",
+      "release_tag": "archive-bilibili-20261020",
+      "download_url": null
+    }
+  ]
+}
