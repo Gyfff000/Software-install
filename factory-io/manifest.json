@@ -9,9 +9,18 @@
       "sha256": "C43A44964BA3993B5DE6BE7564BBB17160384E822CC0E4AECD2E2F61629439CF",
       "product_version": "2.5.10",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-factory-io-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-factory-io-20261020",
+      "assets": [
+        {
+          "name": "c43a44964ba3-factoryio-installer-latest.exe",
+          "size_bytes": 277069272,
+          "sha256": "c43a44964ba3993b5de6be7564bbb17160384e822cc0e4aecd2e2f61629439cf",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-5da6a7308b4b13a060b4/c43a44964ba3-factoryio-installer-latest.exe",
+          "asset_id": 658385968
+        }
+      ]
     }
   ]
 }
