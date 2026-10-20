@@ -9,9 +9,18 @@
       "sha256": "A613E59A8E51511330B9DA874A2FC928266F44CA4FEBB117910001BB3D9C5E69",
       "product_version": "4.5.23.3836",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-rainmeter-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-rainmeter-20261020",
+      "assets": [
+        {
+          "name": "a613e59a8e51-Rainmeter-4.5.23.exe",
+          "size_bytes": 2552240,
+          "sha256": "a613e59a8e51511330b9da874a2fc928266f44ca4febb117910001bb3d9c5e69",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-8348fb52524e96e64ca0/a613e59a8e51-Rainmeter-4.5.23.exe",
+          "asset_id": 658323653
+        }
+      ]
     }
   ]
 }

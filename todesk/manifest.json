@@ -9,9 +9,18 @@
       "sha256": "96E3691705E719A96ABFC429CCDE507321AC0C17534D54171FE0CE47A186E7CD",
       "product_version": "1.1.0",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-todesk-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-todesk-20261020",
+      "assets": [
+        {
+          "name": "96e3691705e7-ToDesk_Installer.exe",
+          "size_bytes": 4131840,
+          "sha256": "96e3691705e719a96abfc429ccde507321ac0c17534d54171fe0ce47a186e7cd",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-dab43dd492b8450c55f6/96e3691705e7-ToDesk_Installer.exe",
+          "asset_id": 658324811
+        }
+      ]
     }
   ]
 }

@@ -9,9 +9,18 @@
       "sha256": "9AC945243B81B8BC08D496B460C07566DCDBF6E3783C0B9679C5A3D5B1F3F347",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-jianying-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-jianying-20261020",
+      "assets": [
+        {
+          "name": "9ac945243b81-Jianying_40030524912821_installer.exe",
+          "size_bytes": 2868872,
+          "sha256": "9ac945243b81b8bc08d496b460c07566dcdbf6e3783c0b9679c5a3d5b1f3f347",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-0377a01d073175929dc2/9ac945243b81-Jianying_40030524912821_installer.exe",
+          "asset_id": 658324277
+        }
+      ]
     }
   ]
 }

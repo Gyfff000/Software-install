@@ -9,9 +9,18 @@
       "sha256": "A216DEBACE43F80A4D28D73C4E1C8B492669F2107C6EBB2EEBCFB1AB2B3EC16D",
       "product_version": "6.1025.1275.411",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-qq-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-qq-20261020",
+      "assets": [
+        {
+          "name": "a216debace43-QQ_bl180221050.exe",
+          "size_bytes": 5336536,
+          "sha256": "a216debace43f80a4d28d73c4e1c8b492669f2107c6ebb2eebcfb1ab2b3ec16d",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-d3a2c7e23ab020b97c15/a216debace43-QQ_bl180221050.exe",
+          "asset_id": 658326003
+        }
+      ]
     }
   ]
 }

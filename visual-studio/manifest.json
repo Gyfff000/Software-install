@@ -9,9 +9,18 @@
       "sha256": "069F7465867F140B9F6CC65C1E32B9256DFBC47BB3557A02E9D14D28ACBA21A4",
       "product_version": "Visual Studio 2026 Insiders",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-visual-studio-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-visual-studio-20261020",
+      "assets": [
+        {
+          "name": "069f7465867f-VisualStudioSetup.exe",
+          "size_bytes": 4436080,
+          "sha256": "069f7465867f140b9f6cc65c1e32b9256dfbc47bb3557a02e9d14d28acba21a4",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3aceb08888b67cee1061/069f7465867f-VisualStudioSetup.exe",
+          "asset_id": 658325509
+        }
+      ]
     }
   ]
 }
