@@ -9,9 +9,18 @@
       "sha256": "EA35CB3B6F2CCC0E73A9C6C90F09B4E3ECDAF1016A8536CAC1352F0A208EE7BE",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-lingma-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-lingma-20261020",
+      "assets": [
+        {
+          "name": "ea35cb3b6f2c-lingma-2.5.18.zip",
+          "size_bytes": 190362601,
+          "sha256": "ea35cb3b6f2ccc0e73a9c6c90f09b4e3ecdaf1016a8536cac1352f0a208ee7be",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-1fff5655f9349ac9a80a/ea35cb3b6f2c-lingma-2.5.18.zip",
+          "asset_id": 658362099
+        }
+      ]
     }
   ]
 }
