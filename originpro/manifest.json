@@ -49,9 +49,18 @@
       "sha256": "0C2469FE272D960F27741FDD46CBBF20549E5D742098216FF7DD7303168DDD26",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-originpro-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-originpro-20261020",
+      "assets": [
+        {
+          "name": "0c2469fe272d-data2.cab",
+          "size_bytes": 448023133,
+          "sha256": "0c2469fe272d960f27741fdd46cbbf20549e5d742098216ff7dd7303168ddd26",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-e4954a80018163018e19/0c2469fe272d-data2.cab",
+          "asset_id": 658423781
+        }
+      ]
     },
     {
       "filename": "data1.cab",

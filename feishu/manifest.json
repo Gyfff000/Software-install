@@ -29,9 +29,18 @@
       "sha256": "BF6AF0C0CD033821BCD292A2A85B251C832E97C98CF23CA331B3CFB2390C0E04",
       "product_version": "7.8.7",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-feishu-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-feishu-20261020",
+      "assets": [
+        {
+          "name": "bf6af0c0cd03-___setup.exe",
+          "size_bytes": 267322144,
+          "sha256": "bf6af0c0cd033821bcd292a2a85b251c832e97c98cf23ca331b3cfb2390c0e04",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-1999461f7d87e9ed58cd/bf6af0c0cd03-___setup.exe",
+          "asset_id": 658439830
+        }
+      ]
     }
   ]
 }
