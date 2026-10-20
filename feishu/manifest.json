@@ -9,9 +9,18 @@
       "sha256": "6144791D9BDD958C436668EA65426B54AC691D8896257B57C4FC6F2156ABB544",
       "product_version": "7.44.6",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-feishu-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-feishu-20261020",
+      "assets": [
+        {
+          "name": "6144791d9bdd-Feishu-win32_x64-7.44.6-signed.exe",
+          "size_bytes": 326907680,
+          "sha256": "6144791d9bdd958c436668ea65426b54ac691d8896257b57c4fc6f2156abb544",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-1999461f7d87e9ed58cd/6144791d9bdd-Feishu-win32_x64-7.44.6-signed.exe",
+          "asset_id": 658425091
+        }
+      ]
     },
     {
       "filename": "飞书_setup.exe",

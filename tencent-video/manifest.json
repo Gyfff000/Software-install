@@ -49,9 +49,18 @@
       "sha256": "BE8B094B0DF0DE460EDF0E80014E021289D509B82DDC056040D697855A9D5109",
       "product_version": "",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-tencent-video-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-tencent-video-20261020",
+      "assets": [
+        {
+          "name": "be8b094b0df0-QQliveSetup_20_847__2_.exe",
+          "size_bytes": 193525416,
+          "sha256": "be8b094b0df0de460edf0e80014e021289d509b82ddc056040d697855a9d5109",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-31042adbb64ef638de5c/be8b094b0df0-QQliveSetup_20_847__2_.exe",
+          "asset_id": 658427264
+        }
+      ]
     }
   ]
 }
