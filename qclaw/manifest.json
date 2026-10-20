@@ -9,9 +9,18 @@
       "sha256": "0D057FF892219C3FA67F8AB9933CCB01473160607ABA6183555E736C6A9F997B",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-qclaw-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-qclaw-20261020",
+      "assets": [
+        {
+          "name": "0d057ff89221-QClaw-Setup-0.2.35-5001-624_silent.exe",
+          "size_bytes": 565753424,
+          "sha256": "0d057ff892219c3fa67f8ab9933ccb01473160607aba6183555e736c6a9f997b",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-e1888eb672c7cb4b03fb/0d057ff89221-QClaw-Setup-0.2.35-5001-624_silent.exe",
+          "asset_id": 658452928
+        }
+      ]
     },
     {
       "filename": "QClaw-Setup-latest.exe",
