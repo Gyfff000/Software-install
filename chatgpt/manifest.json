@@ -9,9 +9,18 @@
       "sha256": "8E1F2E03B43BA7B4F1D030F243ED2A1E9436F2CE7D1F43C7CD8D790339D07E18",
       "product_version": "22608.0817.02.0+11f729f9388beedd36e09d30a4d48b7eb5a61760",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-chatgpt-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-chatgpt-20261020",
+      "assets": [
+        {
+          "name": "8e1f2e03b43b-ChatGPT_Installer.exe",
+          "size_bytes": 815136,
+          "sha256": "8e1f2e03b43ba7b4f1d030f243ed2a1e9436f2ce7d1f43c7cd8d790339d07e18",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-daccf1d7383ec1039939/8e1f2e03b43b-ChatGPT_Installer.exe",
+          "asset_id": 658321521
+        }
+      ]
     }
   ]
 }

@@ -9,9 +9,18 @@
       "sha256": "7D3654531C32D941B8CAE81C4137FC542172BFA9635F169CB392F245A0A12BCB",
       "product_version": "",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-steam-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-steam-20261020",
+      "assets": [
+        {
+          "name": "7d3654531c32-SteamSetup.exe",
+          "size_bytes": 2380800,
+          "sha256": "7d3654531c32d941b8cae81c4137fc542172bfa9635f169cb392f245a0a12bcb",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-f85d2da819265999e9ea/7d3654531c32-SteamSetup.exe",
+          "asset_id": 658322905
+        }
+      ]
     }
   ]
 }

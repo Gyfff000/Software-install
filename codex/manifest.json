@@ -9,9 +9,18 @@
       "sha256": "04DAB877F89B46218589344952E539417780943E9D73D161DE2A8A8B1A7EE654",
       "product_version": "22604.0423.01.0+edefbe76210e5e9884f2bc7198e99509f85977b7",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-codex-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-codex-20261020",
+      "assets": [
+        {
+          "name": "04dab877f89b-Codex_Installer.exe",
+          "size_bytes": 1294880,
+          "sha256": "04dab877f89b46218589344952e539417780943e9d73d161de2a8a8b1a7ee654",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-0b5e30e915d53b67c23c/04dab877f89b-Codex_Installer.exe",
+          "asset_id": 658321889
+        }
+      ]
     }
   ]
 }

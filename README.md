@@ -3,7 +3,7 @@ Here are installation packages for nearly all essential software for engineering
 
 ## 工科软件安装包归档
 每个软件一个目录，目录中包含文件清单、SHA-256与下载入口。实际安装包放在对应的GitHub Releases附件中；超过附件限制的文件按1GiB分卷。
-当前共 70 类软件；已上传并校验 0 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
+当前共 70 类软件；已上传并校验 5 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
 校验值用于确认备份字节一致，不代表官方来源、数字签名或授权认证。注册机、许可证文件、个人项目和本机路径不纳入公开归档。
 
 | 软件 | 安装包数 | 已完成 | 目录 |
@@ -16,12 +16,12 @@ Here are installation packages for nearly all essential software for engineering
 | 百度网盘 | 1 | 0 | [baidu-netdisk](baidu-netdisk/) |
 | Bambu Studio | 3 | 0 | [bambu-studio](bambu-studio/) |
 | CC Switch | 2 | 0 | [cc-switch](cc-switch/) |
-| ChatGPT | 1 | 0 | [chatgpt](chatgpt/) |
+| ChatGPT | 1 | 1 | [chatgpt](chatgpt/) |
 | ChemDraw | 1 | 0 | [chemdraw](chemdraw/) |
 | Clash Verge | 1 | 0 | [clash-verge](clash-verge/) |
 | Claude | 2 | 0 | [claude](claude/) |
 | CodeBlocks | 1 | 0 | [codeblocks](codeblocks/) |
-| Codex | 1 | 0 | [codex](codex/) |
+| Codex | 1 | 1 | [codex](codex/) |
 | CUMCM工具 | 1 | 0 | [cumcm-tool](cumcm-tool/) |
 | DJI Assistant 2 | 1 | 0 | [dji-assistant](dji-assistant/) |
 | DJI NAZA-M LITE | 1 | 0 | [dji-naza](dji-naza/) |
@@ -54,9 +54,9 @@ Here are installation packages for nearly all essential software for engineering
 | QQ | 1 | 0 | [qq](qq/) |
 | 夸克 | 2 | 0 | [quark](quark/) |
 | Rainmeter | 1 | 0 | [rainmeter](rainmeter/) |
-| Rufus | 1 | 0 | [rufus](rufus/) |
+| Rufus | 1 | 1 | [rufus](rufus/) |
 | 标准阅读器 | 1 | 0 | [standard-reader](standard-reader/) |
-| Steam | 1 | 0 | [steam](steam/) |
+| Steam | 1 | 1 | [steam](steam/) |
 | STM32固件包 | 1 | 0 | [stm32-firmware](stm32-firmware/) |
 | STM32CubeMX | 1 | 0 | [stm32cubemx](stm32cubemx/) |
 | Sublime Text | 1 | 0 | [sublime-text](sublime-text/) |
@@ -65,7 +65,7 @@ Here are installation packages for nearly all essential software for engineering
 | Tesseract OCR | 1 | 0 | [tesseract-ocr](tesseract-ocr/) |
 | ToDesk | 1 | 0 | [todesk](todesk/) |
 | TRAE | 2 | 0 | [trae](trae/) |
-| 串口调试助手 | 1 | 0 | [uart-assistant](uart-assistant/) |
+| 串口调试助手 | 1 | 1 | [uart-assistant](uart-assistant/) |
 | Ubuntu | 4 | 0 | [ubuntu](ubuntu/) |
 | 电应普超声波调试助手 | 1 | 0 | [ultrasonic-debug-tool](ultrasonic-debug-tool/) |
 | UU加速器 | 1 | 0 | [uu-accelerator](uu-accelerator/) |

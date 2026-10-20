@@ -9,9 +9,18 @@
       "sha256": "2633C3ADF2D6344004D7D09623FE8484A5A859D313E696B8C8E082B465135902",
       "product_version": "1.0.0.0",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-uart-assistant-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-uart-assistant-20261020",
+      "assets": [
+        {
+          "name": "2633c3adf2d6-UartAssist.exe",
+          "size_bytes": 631808,
+          "sha256": "2633c3adf2d6344004d7d09623fe8484a5a859d313e696b8c8e082b465135902",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-e7f2891bdf281b488872/2633c3adf2d6-UartAssist.exe",
+          "asset_id": 658320916
+        }
+      ]
     }
   ]
 }
