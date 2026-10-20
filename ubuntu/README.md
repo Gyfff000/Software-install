@@ -1,6 +1,7 @@
 # Ubuntu
 
 归档状态：upload_failed
+Ubuntu 24.04.4 的本地原镜像下载不完整，已删除，不提供该文件下载。
 
 安装包附件只在校验成功后标记为 uploaded_verified。pending_upload 表示尚未上传。
 
