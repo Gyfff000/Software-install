@@ -9,9 +9,18 @@
       "sha256": "1A11EC7AEE32F7213D079555963FF3536F9CAF8634841B8051AEF8F939B41920",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-siemens-tia-portal-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-siemens-tia-portal-20261020",
+      "assets": [
+        {
+          "name": "1a11ec7aee32-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.001",
+          "size_bytes": 2147483647,
+          "sha256": "1a11ec7aee32f7213d079555963ff3536f9caf8634841b8051aef8f939b41920",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-f3b6b7b237534a6969b0/1a11ec7aee32-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.001",
+          "asset_id": 659587939
+        }
+      ]
     },
     {
       "filename": "TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.exe",
@@ -20,9 +29,18 @@
       "sha256": "3ADA5355ECC8E124AAAE4D9F6FE1B19D6F762A8282D94FB1A474C6E214D4D0EF",
       "product_version": "16.0.0.0",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-siemens-tia-portal-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-siemens-tia-portal-20261020",
+      "assets": [
+        {
+          "name": "3ada5355ecc8-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.exe",
+          "size_bytes": 2922504,
+          "sha256": "3ada5355ecc8e124aaae4d9f6fe1b19d6f762a8282d94fb1a474c6e214d4d0ef",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-f3b6b7b237534a6969b0/3ada5355ecc8-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.exe",
+          "asset_id": 659729541
+        }
+      ]
     },
     {
       "filename": "TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.002",
