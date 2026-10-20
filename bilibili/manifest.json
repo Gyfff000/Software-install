@@ -9,9 +9,18 @@
       "sha256": "AD936BCC168B7E5ACD694FB5E98F1A5BB38E1556231AC31798B599916656F0DD",
       "product_version": "1.16.5",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-bilibili-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-bilibili-20261020",
+      "assets": [
+        {
+          "name": "ad936bcc168b-installer.exe",
+          "size_bytes": 209831216,
+          "sha256": "ad936bcc168b7e5acd694fb5e98f1a5bb38e1556231ac31798b599916656f0dd",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-b51d05f345bb1c58b7b6/ad936bcc168b-installer.exe",
+          "asset_id": 658362314
+        }
+      ]
     }
   ]
 }

@@ -9,9 +9,18 @@
       "sha256": "7C9D1C0B70DB1B1952CC815252FCED9A07F51267563CF3EAA1674D734C49B8E4",
       "product_version": "9.20",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-opencv-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-opencv-20261020",
+      "assets": [
+        {
+          "name": "7c9d1c0b70db-opencv-4.11.0-windows.exe",
+          "size_bytes": 185089042,
+          "sha256": "7c9d1c0b70db1b1952cc815252fced9a07f51267563cf3eaa1674d734c49b8e4",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-43ea21894b0ecb983d3f/7c9d1c0b70db-opencv-4.11.0-windows.exe",
+          "asset_id": 658361983
+        }
+      ]
     }
   ]
 }

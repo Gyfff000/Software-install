@@ -9,9 +9,18 @@
       "sha256": "8562AE4128FF17FA0848D9E57B05681B3C3EB4C85A694ED75D39CBA17A8370DF",
       "product_version": "3.5.7",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-github-desktop-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-github-desktop-20261020",
+      "assets": [
+        {
+          "name": "8562ae4128ff-GitHubDesktopSetup-x64.exe",
+          "size_bytes": 189960672,
+          "sha256": "8562ae4128ff17fa0848d9e57b05681b3c3eb4c85a694ed75d39cba17a8370df",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-73450f2a1164ae1ea643/8562ae4128ff-GitHubDesktopSetup-x64.exe",
+          "asset_id": 658362399
+        }
+      ]
     }
   ]
 }
