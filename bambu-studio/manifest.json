@@ -29,9 +29,18 @@
       "sha256": "2F2BC654C07553B2E1157CFC7F61A87C87FCE5D534A0C4EC94CB9EB1B65D8D19",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-bambu-studio-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-bambu-studio-20261020",
+      "assets": [
+        {
+          "name": "2f2bc654c075-Bambu_Studio_win-v02.00.03.54.exe",
+          "size_bytes": 241450328,
+          "sha256": "2f2bc654c07553b2e1157cfc7f61a87c87fce5d534a0c4ec94cb9eb1b65d8d19",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-790a08960ce572c81d0a/2f2bc654c075-Bambu_Studio_win-v02.00.03.54.exe",
+          "asset_id": 658451852
+        }
+      ]
     },
     {
       "filename": "Bambu_Studio_win-v02.05.00.66.exe",
