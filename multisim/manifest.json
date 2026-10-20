@@ -49,9 +49,18 @@
       "sha256": "7F9C1B48D0CAEB1EC291C6D7DF9DD5C61914296DA94F6B8D4C681825488C78F7",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-multisim-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-multisim-20261020",
+      "assets": [
+        {
+          "name": "7f9c1b48d0ca-Multisim14.0.zip",
+          "size_bytes": 718742454,
+          "sha256": "7f9c1b48d0caeb1ec291c6d7df9dd5c61914296da94f6b8d4c681825488c78f7",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-96750191fc36b6073659/7f9c1b48d0ca-Multisim14.0.zip",
+          "asset_id": 658615422
+        }
+      ]
     }
   ]
 }

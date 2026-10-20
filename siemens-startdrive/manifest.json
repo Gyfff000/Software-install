@@ -9,9 +9,18 @@
       "sha256": "0FFF5BF342FB7B444075012BDE9821C304845FCACFD04C80C6D7A2B32E8D0F5B",
       "product_version": "01.00.0000",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-siemens-startdrive-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-siemens-startdrive-20261020",
+      "assets": [
+        {
+          "name": "0fff5bf342fb-Startdrive_Advanced_V16.exe",
+          "size_bytes": 2901552,
+          "sha256": "0fff5bf342fb7b444075012bde9821c304845fcacfd04c80c6d7a2b32e8d0f5b",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-205603dba1e52968368a/0fff5bf342fb-Startdrive_Advanced_V16.exe",
+          "asset_id": 658646909
+        }
+      ]
     },
     {
       "filename": "Startdrive_Advanced_V16.001",
