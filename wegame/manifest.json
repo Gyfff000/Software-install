@@ -9,9 +9,18 @@
       "sha256": "0948BECA682116A643629C93FF787D2602B599B4CA1C586D8B2C02A7F4EF6D26",
       "product_version": "7.06.27.1446",
       "local_copy_count": 2,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-wegame-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-wegame-20261020",
+      "assets": [
+        {
+          "name": "0948beca6821-WeGameMiniLoader.std.7.06.27.1446__1_.exe",
+          "size_bytes": 7266616,
+          "sha256": "0948beca682116a643629c93ff787d2602b599b4ca1c586d8b2c02a7f4ef6d26",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-8e8691823ed54afe8db4/0948beca6821-WeGameMiniLoader.std.7.06.27.1446__1_.exe",
+          "asset_id": 658379129
+        }
+      ]
     },
     {
       "filename": "WeGameSetup5.0.4.8192_launcher_0_0.exe",

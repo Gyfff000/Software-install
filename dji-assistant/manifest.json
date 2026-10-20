@@ -9,9 +9,18 @@
       "sha256": "70608A38968DCE4DAE7D726139F65890ACC5B437952C4D655E27E29EB2F6837C",
       "product_version": "V1.2.5                                            ",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-dji-assistant-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-dji-assistant-20261020",
+      "assets": [
+        {
+          "name": "70608a38968d-DJI_Assistant_2_1.2.5.exe",
+          "size_bytes": 236715616,
+          "sha256": "70608a38968dce4dae7d726139f65890acc5b437952c4d655e27e29eb2f6837c",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-f044a9d495de646c07d2/70608a38968d-DJI_Assistant_2_1.2.5.exe",
+          "asset_id": 658370752
+        }
+      ]
     }
   ]
 }
