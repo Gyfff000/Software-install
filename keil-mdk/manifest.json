@@ -9,9 +9,18 @@
       "sha256": "172F5DD24368322CC6C6F73F0308DDDBEB353D4324EF721F34CC85AAAB320582",
       "product_version": "1.37.13.0",
       "local_copy_count": 3,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-keil-mdk-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-keil-mdk-20261020",
+      "assets": [
+        {
+          "name": "172f5dd24368-MDK524a.EXE",
+          "size_bytes": 815629048,
+          "sha256": "172f5dd24368322cc6c6f73f0308dddbeb353d4324ef721f34cc85aaab320582",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-19f12ab3bcb79ce95dce/172f5dd24368-MDK524a.EXE",
+          "asset_id": 658645844
+        }
+      ]
     },
     {
       "filename": "MDK543a.exe",
