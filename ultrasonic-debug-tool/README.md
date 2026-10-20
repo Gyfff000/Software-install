@@ -6,8 +6,9 @@
 
 | 文件 | 大小（字节） | 状态 |
 | --- | ---: | --- |
-| 电应普超声波传感器调试助手 V1.0.5.0(7).7z | 61182622 | pending_upload |
+| 电应普超声波传感器调试助手 V1.0.5.0(7).7z | 61182622 | uploaded_verified |
 
 详细校验值、附件名与分卷顺序见 [manifest.json](manifest.json)。已完成附件入口：
+- [电应普超声波传感器调试助手 V1.0.5.0(7).7z](https://github.com/Gyfff000/Software-install/releases/tag/archive-ultrasonic-debug-tool-20261020)
 
 恢复：下载所需安装包的所有附件和 manifest.json，在附件所在目录运行仓库 scripts/Restore-Parts.ps1 -ManifestPath manifest.json。该脚本按清单恢复原始文件名，合并分卷并校验完整文件。厂商分卷介质还需要下载同组全部原始分卷与启动EXE。

@@ -9,9 +9,18 @@
       "sha256": "045B80A5BF2ED59180DB8CD646EE548AD7D9D0BC9095604AFAE72FBBB8D59836",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-ultrasonic-debug-tool-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-ultrasonic-debug-tool-20261020",
+      "assets": [
+        {
+          "name": "045b80a5bf2e-______________V1.0.5.0_7_.7z",
+          "size_bytes": 61182622,
+          "sha256": "045b80a5bf2ed59180db8cd646ee548ad7d9d0bc9095604afae72fbbb8d59836",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-1fd6b8c91fa5741ea2c1/045b80a5bf2e-______________V1.0.5.0_7_.7z",
+          "asset_id": 658338386
+        }
+      ]
     }
   ]
 }

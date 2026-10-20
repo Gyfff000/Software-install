@@ -9,9 +9,18 @@
       "sha256": "6252BF34FE2231A55AC7F03D482B36D2C7C58697990551BBA508102CFB3F342E",
       "product_version": "23.01",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-w64devkit-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-w64devkit-20261020",
+      "assets": [
+        {
+          "name": "6252bf34fe22-w64devkit-x64-2.8.0.7z.exe",
+          "size_bytes": 60043168,
+          "sha256": "6252bf34fe2231a55ac7f03d482b36d2c7c58697990551bba508102cfb3f342e",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-03f90439bb316ff751ae/6252bf34fe22-w64devkit-x64-2.8.0.7z.exe",
+          "asset_id": 658338157
+        }
+      ]
     }
   ]
 }
