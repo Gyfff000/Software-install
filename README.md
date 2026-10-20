@@ -3,14 +3,14 @@ Here are installation packages for nearly all essential software for engineering
 
 ## 工科软件安装包归档
 每个软件一个目录，目录中包含文件清单、SHA-256与下载入口。实际安装包放在对应的GitHub Releases附件中；超过附件限制的文件按1GiB分卷。
-当前共 76 类软件；已上传并校验 35 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
+当前共 76 类软件；已上传并校验 39 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
 校验值用于确认备份字节一致，不代表官方来源、数字签名或授权认证。注册机、许可证文件、个人项目和本机路径不纳入公开归档。
 
 | 软件 | 安装包数 | 已完成 | 目录 |
 | --- | ---: | ---: | --- |
 | 阿里云盘 | 1 | 0 | [aliyun-drive](aliyun-drive/) |
 | Altium Designer | 3 | 0 | [altium-designer](altium-designer/) |
-| Arduino IDE | 1 | 0 | [arduino-ide](arduino-ide/) |
+| Arduino IDE | 1 | 1 | [arduino-ide](arduino-ide/) |
 | Aurora打印机驱动 | 1 | 1 | [aurora-printer-driver](aurora-printer-driver/) |
 | AutoCAD安装介质 | 1 | 0 | [autocad-install-media](autocad-install-media/) |
 | 百度网盘 | 1 | 0 | [baidu-netdisk](baidu-netdisk/) |
@@ -29,7 +29,7 @@ Here are installation packages for nearly all essential software for engineering
 | 豆包 | 1 | 1 | [doubao](doubao/) |
 | 抖音 | 2 | 2 | [douyin](douyin/) |
 | EasyConnect | 2 | 2 | [easyconnect](easyconnect/) |
-| ELF BOX | 1 | 0 | [elf-box](elf-box/) |
+| ELF BOX | 1 | 1 | [elf-box](elf-box/) |
 | Factory IO | 1 | 0 | [factory-io](factory-io/) |
 | 飞书 | 2 | 0 | [feishu](feishu/) |
 | Flash中心 | 1 | 1 | [flash-center](flash-center/) |
@@ -66,7 +66,7 @@ Here are installation packages for nearly all essential software for engineering
 | STM32固件包 | 1 | 0 | [stm32-firmware](stm32-firmware/) |
 | STM32CubeMX | 1 | 0 | [stm32cubemx](stm32cubemx/) |
 | Sublime Text | 1 | 1 | [sublime-text](sublime-text/) |
-| TapTap | 1 | 0 | [taptap](taptap/) |
+| TapTap | 1 | 1 | [taptap](taptap/) |
 | 腾讯视频 | 3 | 0 | [tencent-video](tencent-video/) |
 | Tesseract OCR | 1 | 1 | [tesseract-ocr](tesseract-ocr/) |
 | ToDesk | 1 | 1 | [todesk](todesk/) |
@@ -76,7 +76,7 @@ Here are installation packages for nearly all essential software for engineering
 | 电应普超声波调试助手 | 1 | 1 | [ultrasonic-debug-tool](ultrasonic-debug-tool/) |
 | UU加速器 | 1 | 1 | [uu-accelerator](uu-accelerator/) |
 | UU远程 | 1 | 1 | [uu-remote](uu-remote/) |
-| VirtualBox | 1 | 0 | [virtualbox](virtualbox/) |
+| VirtualBox | 1 | 1 | [virtualbox](virtualbox/) |
 | Visual Studio | 1 | 1 | [visual-studio](visual-studio/) |
 | VisualGDB | 1 | 1 | [visualgdb](visualgdb/) |
 | Visual Studio Code | 1 | 0 | [vscode](vscode/) |

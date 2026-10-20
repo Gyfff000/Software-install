@@ -9,9 +9,18 @@
       "sha256": "E8A74AD5FBB55BCD4BE7FDD5E8CD6C52E165998EAD18532044C69186213954B1",
       "product_version": "2.0.2.1442",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-elf-box-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-elf-box-20261020",
+      "assets": [
+        {
+          "name": "e8a74ad5fbb5-ELF-BOX3V2.0.2.1442_XMU.exe",
+          "size_bytes": 165840348,
+          "sha256": "e8a74ad5fbb55bcd4be7fdd5e8cd6c52e165998ead18532044c69186213954b1",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-dd1962dfd97c741336ba/e8a74ad5fbb5-ELF-BOX3V2.0.2.1442_XMU.exe",
+          "asset_id": 658352992
+        }
+      ]
     }
   ]
 }

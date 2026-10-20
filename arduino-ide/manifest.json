@@ -9,9 +9,18 @@
       "sha256": "A8F3DF0AC57C6B74AA1B1D22E5F202DC5DDB46663579D4E5108A69CC99B6F823",
       "product_version": "2.3.10",
       "local_copy_count": 2,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-arduino-ide-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-arduino-ide-20261020",
+      "assets": [
+        {
+          "name": "a8f3df0ac57c-arduino-ide_2.3.10_Windows_64bit__1_.exe",
+          "size_bytes": 158074632,
+          "sha256": "a8f3df0ac57c6b74aa1b1d22e5f202dc5ddb46663579d4e5108a69cc99b6f823",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-4559e1c616ac3291b752/a8f3df0ac57c-arduino-ide_2.3.10_Windows_64bit__1_.exe",
+          "asset_id": 658352827
+        }
+      ]
     }
   ]
 }

@@ -9,9 +9,18 @@
       "sha256": "15C18780B9A76FF6D5A2DBFE016992E0AEA631BF25FFC05A11080BB0ED49A690",
       "product_version": "7.2.6.172322",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-virtualbox-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-virtualbox-20261020",
+      "assets": [
+        {
+          "name": "15c18780b9a7-VirtualBox-7.2.6a-172322-Win.exe",
+          "size_bytes": 177448040,
+          "sha256": "15c18780b9a76ff6d5a2dbfe016992e0aea631bf25ffc05a11080bb0ed49a690",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-cddffd92c910583f4592/15c18780b9a7-VirtualBox-7.2.6a-172322-Win.exe",
+          "asset_id": 658353004
+        }
+      ]
     }
   ]
 }

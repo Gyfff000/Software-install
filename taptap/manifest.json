@@ -9,9 +9,18 @@
       "sha256": "471B6C78FD10D0B8EEC86FF00D4E22ED74847A71680FFA8A6C758CCFAC3682FF",
       "product_version": "1.12.2.1000.0",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-taptap-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-taptap-20261020",
+      "assets": [
+        {
+          "name": "471b6c78fd10-TapTap_PC_Setup_1.12.2.1000_organic-direct_index_d20260315--260315VmKc9kjQ106i.exe",
+          "size_bytes": 160854928,
+          "sha256": "471b6c78fd10d0b8eec86ff00d4e22ed74847a71680ffa8a6c758ccfac3682ff",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-d3d8fa2fdfab5a09f4fb/471b6c78fd10-TapTap_PC_Setup_1.12.2.1000_organic-direct_index_d20260315--260315VmKc9kjQ106i.exe",
+          "asset_id": 658352840
+        }
+      ]
     }
   ]
 }
