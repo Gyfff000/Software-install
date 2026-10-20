@@ -29,9 +29,18 @@
       "sha256": "DFD2048D556EC5D2A2F89A50AFB11693FD99824350BE244859BE496D38EFBE0B",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-wegame-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-wegame-20261020",
+      "assets": [
+        {
+          "name": "dfd2048d556e-WeGameSetup5.0.4.8192_launcher_0_0.exe",
+          "size_bytes": 229278560,
+          "sha256": "dfd2048d556ec5d2a2f89a50afb11693fd99824350be244859be496d38efbe0b",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-8e8691823ed54afe8db4/dfd2048d556e-WeGameSetup5.0.4.8192_launcher_0_0.exe",
+          "asset_id": 658379644
+        }
+      ]
     },
     {
       "filename": "19002240_27819_a11179_1.100.0.100_0_DJAw3N.exe",
@@ -40,9 +49,18 @@
       "sha256": "20DD90574E5C971CA60010CAAF510DE3B28556FA635738B6647F2135E10EB3FE",
       "product_version": "7.3.20.1946",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-wegame-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-wegame-20261020",
+      "assets": [
+        {
+          "name": "20dd90574e5c-19002240_27819_a11179_1.100.0.100_0_DJAw3N.exe",
+          "size_bytes": 29382248,
+          "sha256": "20dd90574e5c971ca60010caaf510de3b28556fa635738b6647f2135e10eb3fe",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-8e8691823ed54afe8db4/20dd90574e5c-19002240_27819_a11179_1.100.0.100_0_DJAw3N.exe",
+          "asset_id": 658387697
+        }
+      ]
     },
     {
       "filename": "19002280_27819_a11183_1.100.0.100_0_Y7yt6K.exe",
