@@ -3,7 +3,7 @@ Here are installation packages for nearly all essential software for engineering
 
 ## 工科软件安装包归档
 每个软件一个目录，目录中包含文件清单、SHA-256与下载入口。实际安装包放在对应的GitHub Releases附件中；超过附件限制的文件按1GiB分卷。
-当前共 76 类软件；已上传并校验 50 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
+当前共 76 类软件；已上传并校验 52 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
 校验值用于确认备份字节一致，不代表官方来源、数字签名或授权认证。注册机、许可证文件、个人项目和本机路径不纳入公开归档。
 
 | 软件 | 安装包数 | 已完成 | 目录 |
@@ -53,7 +53,7 @@ Here are installation packages for nearly all essential software for engineering
 | PhoenixRC 凤凰模拟器 | 1 | 0 | [phoenixrc](phoenixrc/) |
 | PyCharm Community | 1 | 0 | [pycharm](pycharm/) |
 | QClaw | 2 | 0 | [qclaw](qclaw/) |
-| QGroundControl | 2 | 0 | [qgroundcontrol](qgroundcontrol/) |
+| QGroundControl | 2 | 1 | [qgroundcontrol](qgroundcontrol/) |
 | QQ | 1 | 1 | [qq](qq/) |
 | 夸克 | 2 | 0 | [quark](quark/) |
 | Rainmeter | 1 | 1 | [rainmeter](rainmeter/) |
@@ -82,7 +82,7 @@ Here are installation packages for nearly all essential software for engineering
 | Visual Studio Code | 1 | 1 | [vscode](vscode/) |
 | w64devkit | 1 | 1 | [w64devkit](w64devkit/) |
 | 微信 | 2 | 0 | [wechat](wechat/) |
-| WeGame | 4 | 3 | [wegame](wegame/) |
+| WeGame | 4 | 4 | [wegame](wegame/) |
 | Windows安装镜像 | 2 | 0 | [windows-install-media](windows-install-media/) |
 
 下载分卷后可使用 [Restore-Parts.ps1](scripts/Restore-Parts.ps1) 自动合并并核对完整文件SHA-256。

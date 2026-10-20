@@ -9,9 +9,18 @@
       "sha256": "36D92D28ACF5DD4906BED5CBB4A800661D9B33C66129C44D0798360CB637309D",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-qgroundcontrol-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-qgroundcontrol-20261020",
+      "assets": [
+        {
+          "name": "36d92d28acf5-QGroundControl-installer-AMD64.exe",
+          "size_bytes": 145008138,
+          "sha256": "36d92d28acf5dd4906bed5cbb4a800661d9b33c66129c44d0798360cb637309d",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-9ab6979b8bc7f0062624/36d92d28acf5-QGroundControl-installer-AMD64.exe",
+          "asset_id": 658385283
+        }
+      ]
     },
     {
       "filename": "QGroundControl-installer-AMD64 (1).exe",

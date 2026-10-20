@@ -69,9 +69,18 @@
       "sha256": "8CA3C562C809FA06C2B9F95AAEB8CED4FEE77AF7E9EB7E209C78FA54B1352704",
       "product_version": "7.3.20.1946",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-wegame-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-wegame-20261020",
+      "assets": [
+        {
+          "name": "8ca3c562c809-19002280_27819_a11183_1.100.0.100_0_Y7yt6K.exe",
+          "size_bytes": 29385448,
+          "sha256": "8ca3c562c809fa06c2b9f95aaeb8ced4fee77af7e9eb7e209c78fa54b1352704",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-8e8691823ed54afe8db4/8ca3c562c809-19002280_27819_a11183_1.100.0.100_0_Y7yt6K.exe",
+          "asset_id": 658389300
+        }
+      ]
     }
   ]
 }
