@@ -29,9 +29,18 @@
       "sha256": "D3B93E2F6BADF7A1EBDCDCB46D20085AC8AECDF883F76BEB1A0F52C26B646123",
       "product_version": "5.7.1",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-douyin-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-douyin-20261020",
+      "assets": [
+        {
+          "name": "d3b93e2f6bad-douyin-downloader-v5.7.1-win32-ia32-microsoftmz03-wid-8RnS1AHdsaC.exe",
+          "size_bytes": 3478488,
+          "sha256": "d3b93e2f6badf7a1ebdcdcb46d20085ac8aecdf883f76beb1a0f52c26b646123",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-a825dd2df0a614d9644a/d3b93e2f6bad-douyin-downloader-v5.7.1-win32-ia32-microsoftmz03-wid-8RnS1AHdsaC.exe",
+          "asset_id": 658328170
+        }
+      ]
     }
   ]
 }

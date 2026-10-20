@@ -9,9 +9,18 @@
       "sha256": "B5AA35A1F01ECB13D2AFE3D53B1ECA459F7E89C4CF7C36D394FB9589B5897AA2",
       "product_version": "2.7.2.0",
       "local_copy_count": 3,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-aurora-printer-driver-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-aurora-printer-driver-20261020",
+      "assets": [
+        {
+          "name": "b5aa35a1f01e-Aurora-Generic-22BW_d1b51404.exe",
+          "size_bytes": 9707872,
+          "sha256": "b5aa35a1f01ecb13d2afe3d53b1eca459f7e89c4cf7c36d394fb9589b5897aa2",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-0c1b08b44d970de4bc79/b5aa35a1f01e-Aurora-Generic-22BW_d1b51404.exe",
+          "asset_id": 658332371
+        }
+      ]
     }
   ]
 }

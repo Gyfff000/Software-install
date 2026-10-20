@@ -9,9 +9,18 @@
       "sha256": "2A8C89A6948BAAE9EC59957C6906F9A527D833E69A0E1D5ACA7B93B818D3CBF2",
       "product_version": "144.0.7547.0",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-google-chrome-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-google-chrome-20261020",
+      "assets": [
+        {
+          "name": "2a8c89a6948b-ChromeSetup.exe",
+          "size_bytes": 10752440,
+          "sha256": "2a8c89a6948baae9ec59957c6906f9a527d833e69a0e1d5aca7b93b818d3cbf2",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-a463e2cf5f606416c7eb/2a8c89a6948b-ChromeSetup.exe",
+          "asset_id": 658332373
+        }
+      ]
     }
   ]
 }

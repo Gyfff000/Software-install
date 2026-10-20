@@ -9,9 +9,18 @@
       "sha256": "BA6072C6168A05F3820FA3F80F02EEA6A439A6D4CE48E99C86031DB5885F7065",
       "product_version": "1.0.0.0",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-claude-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-claude-20261020",
+      "assets": [
+        {
+          "name": "ba6072c6168a-Claude_Setup__1_.exe",
+          "size_bytes": 7021216,
+          "sha256": "ba6072c6168a05f3820fa3f80f02eea6a439a6d4ce48e99c86031db5885f7065",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-421a3267388ae9d6daf0/ba6072c6168a-Claude_Setup__1_.exe",
+          "asset_id": 658332730
+        }
+      ]
     },
     {
       "filename": "Claude Setup.exe",
@@ -20,9 +29,18 @@
       "sha256": "F91AAD4C1783FBE9B231DFAB6766BEF79FB0FB546D8FEFFAA8F5962856B634A1",
       "product_version": "1.0.0.0",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-claude-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-claude-20261020",
+      "assets": [
+        {
+          "name": "f91aad4c1783-Claude_Setup.exe",
+          "size_bytes": 6989472,
+          "sha256": "f91aad4c1783fbe9b231dfab6766bef79fb0fb546d8feffaa8f5962856b634a1",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-421a3267388ae9d6daf0/f91aad4c1783-Claude_Setup.exe",
+          "asset_id": 658333078
+        }
+      ]
     }
   ]
 }

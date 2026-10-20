@@ -9,9 +9,18 @@
       "sha256": "3D3C70E51AEF08F85D7160BCC70793BED9ACEC250973090AB67D98987BCE7C7E",
       "product_version": "                                                  ",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-sublime-text-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-sublime-text-20261020",
+      "assets": [
+        {
+          "name": "3d3c70e51aef-sublime_text_build_4200_x64_setup.exe",
+          "size_bytes": 16200128,
+          "sha256": "3d3c70e51aef08f85d7160bcc70793bed9acec250973090ab67d98987bce7c7e",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-db1760dc7a70cd3dccd0/3d3c70e51aef-sublime_text_build_4200_x64_setup.exe",
+          "asset_id": 658333176
+        }
+      ]
     }
   ]
 }
