@@ -9,9 +9,18 @@
       "sha256": "22F906689292009E98276EAC17044443E7041516E9D5224BAE91BD2D842F9288",
       "product_version": "4.0.5.0",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-wechat-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-wechat-20261020",
+      "assets": [
+        {
+          "name": "22f906689292-WeChatWin.exe",
+          "size_bytes": 200609960,
+          "sha256": "22f906689292009e98276eac17044443e7041516e9d5224bae91bd2d842f9288",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-447c82461e5b30b4e24b/22f906689292-WeChatWin.exe",
+          "asset_id": 658401441
+        }
+      ]
     },
     {
       "filename": "WeChatWin_4.1.0.18.exe",
