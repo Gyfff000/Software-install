@@ -1,5 +1,5 @@
 # Software-install
-Here are installation packages for nearly all essential software for engineering students. Most of them are genuine. Everyone is welcome to use them!
+Here are installation packages for nearly all essential software for students majoring in Automation. Most of them are genuine. Everyone is welcome to use them!
 
 ## 工科软件安装包归档
 每个软件一个目录，目录中包含文件清单、SHA-256与下载入口。实际安装包放在对应的GitHub Releases附件中；超过附件限制的文件按1GiB分卷。
