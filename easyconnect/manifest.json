@@ -9,9 +9,18 @@
       "sha256": "2C56CC6FAB26984A12F794ED5A8C9DE6122C3B1A92BB7E00D763C78CAF58D169",
       "product_version": "7, 6, 7, 0",
       "local_copy_count": 2,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-easyconnect-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-easyconnect-20261020",
+      "assets": [
+        {
+          "name": "2c56cc6fab26-EasyConnectInstaller__1_.exe",
+          "size_bytes": 27488328,
+          "sha256": "2c56cc6fab26984a12f794ed5a8c9de6122c3b1a92bb7e00d763c78caf58d169",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3f20b3dc2d4e58fc887a/2c56cc6fab26-EasyConnectInstaller__1_.exe",
+          "asset_id": 658333300
+        }
+      ]
     },
     {
       "filename": "EasyConnect Installer.exe",
@@ -20,9 +29,18 @@
       "sha256": "60BE9F211C73FEF88FB1CEFC3255A03843E4C21F9D1992DC069F6E485B01107C",
       "product_version": "22504.0418.01.0+88d4431a5e7625ea51830218ca1a0e0aa192321d",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-easyconnect-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-easyconnect-20261020",
+      "assets": [
+        {
+          "name": "60be9f211c73-EasyConnect_Installer.exe",
+          "size_bytes": 1104440,
+          "sha256": "60be9f211c73fef88fb1cefc3255a03843e4c21f9d1992dc069f6e485b01107c",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3f20b3dc2d4e58fc887a/60be9f211c73-EasyConnect_Installer.exe",
+          "asset_id": 658334320
+        }
+      ]
     }
   ]
 }

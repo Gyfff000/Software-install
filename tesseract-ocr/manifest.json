@@ -9,9 +9,18 @@
       "sha256": "F3FC4236425B690C8BE756F35793F77394EE004BE0A6460A440C754D892F68BC",
       "product_version": "5.5.0.20241111",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-tesseract-ocr-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-tesseract-ocr-20261020",
+      "assets": [
+        {
+          "name": "f3fc4236425b-tesseract-ocr-w64-setup-5.5.0.20241111.exe",
+          "size_bytes": 21381872,
+          "sha256": "f3fc4236425b690c8be756f35793f77394ee004be0a6460a440c754d892f68bc",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-174deb2f82810dd3b2e3/f3fc4236425b-tesseract-ocr-w64-setup-5.5.0.20241111.exe",
+          "asset_id": 658333741
+        }
+      ]
     }
   ]
 }

@@ -3,7 +3,7 @@ Here are installation packages for nearly all essential software for engineering
 
 ## 工科软件安装包归档
 每个软件一个目录，目录中包含文件清单、SHA-256与下载入口。实际安装包放在对应的GitHub Releases附件中；超过附件限制的文件按1GiB分卷。
-当前共 76 类软件；已上传并校验 20 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
+当前共 76 类软件；已上传并校验 26 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
 校验值用于确认备份字节一致，不代表官方来源、数字签名或授权认证。注册机、许可证文件、个人项目和本机路径不纳入公开归档。
 
 | 软件 | 安装包数 | 已完成 | 目录 |
@@ -16,7 +16,7 @@ Here are installation packages for nearly all essential software for engineering
 | 百度网盘 | 1 | 0 | [baidu-netdisk](baidu-netdisk/) |
 | Bambu Studio | 3 | 0 | [bambu-studio](bambu-studio/) |
 | 哔哩哔哩 | 1 | 0 | [bilibili](bilibili/) |
-| CC Switch | 2 | 0 | [cc-switch](cc-switch/) |
+| CC Switch | 2 | 2 | [cc-switch](cc-switch/) |
 | ChatGPT | 1 | 1 | [chatgpt](chatgpt/) |
 | ChemDraw | 1 | 0 | [chemdraw](chemdraw/) |
 | Clash Verge | 1 | 0 | [clash-verge](clash-verge/) |
@@ -28,7 +28,7 @@ Here are installation packages for nearly all essential software for engineering
 | DJI NAZA-M LITE | 1 | 1 | [dji-naza](dji-naza/) |
 | 豆包 | 1 | 1 | [doubao](doubao/) |
 | 抖音 | 2 | 2 | [douyin](douyin/) |
-| EasyConnect | 2 | 0 | [easyconnect](easyconnect/) |
+| EasyConnect | 2 | 2 | [easyconnect](easyconnect/) |
 | ELF BOX | 1 | 0 | [elf-box](elf-box/) |
 | Factory IO | 1 | 0 | [factory-io](factory-io/) |
 | 飞书 | 2 | 0 | [feishu](feishu/) |
@@ -61,14 +61,14 @@ Here are installation packages for nearly all essential software for engineering
 | Siemens S7-PLCSIM V16 | 1 | 0 | [siemens-plcsim](siemens-plcsim/) |
 | Siemens Startdrive Advanced V16 | 4 | 0 | [siemens-startdrive](siemens-startdrive/) |
 | Siemens TIA Portal V16 | 4 | 0 | [siemens-tia-portal](siemens-tia-portal/) |
-| 标准阅读器 | 1 | 0 | [standard-reader](standard-reader/) |
+| 标准阅读器 | 1 | 1 | [standard-reader](standard-reader/) |
 | Steam | 1 | 1 | [steam](steam/) |
 | STM32固件包 | 1 | 0 | [stm32-firmware](stm32-firmware/) |
 | STM32CubeMX | 1 | 0 | [stm32cubemx](stm32cubemx/) |
 | Sublime Text | 1 | 1 | [sublime-text](sublime-text/) |
 | TapTap | 1 | 0 | [taptap](taptap/) |
 | 腾讯视频 | 3 | 0 | [tencent-video](tencent-video/) |
-| Tesseract OCR | 1 | 0 | [tesseract-ocr](tesseract-ocr/) |
+| Tesseract OCR | 1 | 1 | [tesseract-ocr](tesseract-ocr/) |
 | ToDesk | 1 | 1 | [todesk](todesk/) |
 | TRAE | 2 | 0 | [trae](trae/) |
 | 串口调试助手 | 1 | 1 | [uart-assistant](uart-assistant/) |

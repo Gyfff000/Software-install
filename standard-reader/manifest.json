@@ -9,9 +9,18 @@
       "sha256": "DCF6F75535EDD4F912DC355F79EAB7A652B3DD762CCA2BB7E7FC6BD0C9CFBBA1",
       "product_version": "6.00.2900.5512",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-standard-reader-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-standard-reader-20261020",
+      "assets": [
+        {
+          "name": "dcf6f75535ed-standardreader.exe",
+          "size_bytes": 33069552,
+          "sha256": "dcf6f75535edd4f912dc355f79eab7a652b3dd762cca2bb7e7fc6bd0c9cfbba1",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-783b15a96ee50319290d/dcf6f75535ed-standardreader.exe",
+          "asset_id": 658334046
+        }
+      ]
     }
   ]
 }
