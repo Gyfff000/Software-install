@@ -9,9 +9,18 @@
       "sha256": "54B4F7967A4017A68512F51E4603348F8AD8ABD1F07FCAA4D5D84D33C35B2F90",
       "product_version": "0.1.19                                            ",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-trae-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-trae-20261020",
+      "assets": [
+        {
+          "name": "54b4f7967a40-TRAE_Work_CN-Setup-x64.exe",
+          "size_bytes": 311949136,
+          "sha256": "54b4f7967a4017a68512f51e4603348f8ad8abd1f07fcaa4d5d84d33c35b2f90",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3b9832c830e409af3691/54b4f7967a40-TRAE_Work_CN-Setup-x64.exe",
+          "asset_id": 658462855
+        }
+      ]
     },
     {
       "filename": "TRAE SOLOSetup-stable-2.3.70844.exe",
