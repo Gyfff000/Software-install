@@ -9,9 +9,18 @@
       "sha256": "7F7F8971BD338638796EE2F469B4D013D059D331FE83A7DB1C98206ED1ED697A",
       "product_version": "0.0.18",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-mathmodel-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-mathmodel-20261020",
+      "assets": [
+        {
+          "name": "7f7f8971bd33-mathmodel-0.0.18-x64.exe",
+          "size_bytes": 324202109,
+          "sha256": "7f7f8971bd338638796ee2f469b4d013d059d331fe83a7db1c98206ed1ed697a",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-6f043c59bff8a0c63218/7f7f8971bd33-mathmodel-0.0.18-x64.exe",
+          "asset_id": 658403896
+        }
+      ]
     }
   ]
 }

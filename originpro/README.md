@@ -6,8 +6,8 @@
 
 | 文件 | 大小（字节） | 状态 |
 | --- | ---: | --- |
-| 0x0411.ini | 14946 | pending_upload |
-| data1.hdr | 1264506 | pending_upload |
+| 0x0411.ini | 14946 | uploaded_verified |
+| data1.hdr | 1264506 | uploaded_verified |
 | data2.cab | 448023133 | pending_upload |
 | data1.cab | 68718928 | pending_upload |
 | ISSetup.dll | 789504 | pending_upload |
@@ -21,5 +21,7 @@
 | 0x0407.ini | 25858 | pending_upload |
 
 详细校验值、附件名与分卷顺序见 [manifest.json](manifest.json)。已完成附件入口：
+- [0x0411.ini](https://github.com/Gyfff000/Software-install/releases/tag/archive-originpro-20261020)
+- [data1.hdr](https://github.com/Gyfff000/Software-install/releases/tag/archive-originpro-20261020)
 
 恢复：下载所需安装包的所有附件和 manifest.json，在附件所在目录运行仓库 scripts/Restore-Parts.ps1 -ManifestPath manifest.json。该脚本按清单恢复原始文件名，合并分卷并校验完整文件。厂商分卷介质还需要下载同组全部原始分卷与启动EXE。

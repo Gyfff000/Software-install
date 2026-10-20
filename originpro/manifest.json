@@ -9,9 +9,18 @@
       "sha256": "01B8625A29DB41E0A190C0634EF3EE4F0878D2B56C92A407018B97BDF4ED7E7D",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-originpro-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-originpro-20261020",
+      "assets": [
+        {
+          "name": "01b8625a29db-0x0411.ini",
+          "size_bytes": 14946,
+          "sha256": "01b8625a29db41e0a190c0634ef3ee4f0878d2b56c92a407018b97bdf4ed7e7d",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-e4954a80018163018e19/01b8625a29db-0x0411.ini",
+          "asset_id": 658423248
+        }
+      ]
     },
     {
       "filename": "data1.hdr",
@@ -20,9 +29,18 @@
       "sha256": "03356BF406C45C337243727670D8AD57B9954C5CDF895536B926EA46323C73E0",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-originpro-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-originpro-20261020",
+      "assets": [
+        {
+          "name": "03356bf406c4-data1.hdr",
+          "size_bytes": 1264506,
+          "sha256": "03356bf406c45c337243727670d8ad57b9954c5cdf895536b926ea46323c73e0",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-e4954a80018163018e19/03356bf406c4-data1.hdr",
+          "asset_id": 658423441
+        }
+      ]
     },
     {
       "filename": "data2.cab",
