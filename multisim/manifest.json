@@ -9,9 +9,18 @@
       "sha256": "5BD697F15E14F97B9323E223640670B980E6F48DD7EEC58CA77A11BB507E272E",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-multisim-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-multisim-20261020",
+      "assets": [
+        {
+          "name": "5bd697f15e14-NI_Circuit_Design_Suite_14_0.exe",
+          "size_bytes": 717312856,
+          "sha256": "5bd697f15e14f97b9323e223640670b980e6f48dd7eec58ca77a11bb507e272e",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-96750191fc36b6073659/5bd697f15e14-NI_Circuit_Design_Suite_14_0.exe",
+          "asset_id": 658548912
+        }
+      ]
     },
     {
       "filename": "NI_Circuit_Design_Suite_12.0.exe",
