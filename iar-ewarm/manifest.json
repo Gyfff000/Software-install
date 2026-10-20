@@ -9,9 +9,18 @@
       "sha256": "C602AD024CED47295965BE01E91FEC5A34A6EC8F780D6A6D51D4522964EB7A45",
       "product_version": "9.40.1",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-iar-ewarm-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-iar-ewarm-20261020",
+      "assets": [
+        {
+          "name": "c602ad024ced-EWARM-9401-63915.exe",
+          "size_bytes": 1725591744,
+          "sha256": "c602ad024ced47295965be01e91fec5a34a6ec8f780d6a6d51d4522964eb7a45",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-d41cc68bdc4c60525874/c602ad024ced-EWARM-9401-63915.exe",
+          "asset_id": 658554198
+        }
+      ]
     }
   ]
 }
