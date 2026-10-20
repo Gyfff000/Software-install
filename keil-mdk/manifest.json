@@ -29,9 +29,18 @@
       "sha256": "5702ED2093680932DA3466134885B2141297099DF106E5090C38F65A9510B7CA",
       "product_version": "1.39.0.7",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-keil-mdk-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-keil-mdk-20261020",
+      "assets": [
+        {
+          "name": "5702ed209368-MDK543a.exe",
+          "size_bytes": 893488656,
+          "sha256": "5702ed2093680932da3466134885b2141297099df106e5090c38f65a9510b7ca",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-19f12ab3bcb79ce95dce/5702ed209368-MDK543a.exe",
+          "asset_id": 658678154
+        }
+      ]
     },
     {
       "filename": "MDK542a (2).exe",
