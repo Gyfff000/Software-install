@@ -9,9 +9,18 @@
       "sha256": "596265F3A5C9F4B069AD2854C3AE054E32BC434BC3E58A6EE6DCB6775C268B6E",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-stm32-firmware-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-stm32-firmware-20261020",
+      "assets": [
+        {
+          "name": "596265f3a5c9-stm32cube_fw_f1_v180.zip",
+          "size_bytes": 115150768,
+          "sha256": "596265f3a5c9f4b069ad2854c3ae054e32bc434bc3e58a6ee6dcb6775c268b6e",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-92e12493ecee0012ca15/596265f3a5c9-stm32cube_fw_f1_v180.zip",
+          "asset_id": 659479264
+        }
+      ]
     }
   ]
 }

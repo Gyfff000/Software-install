@@ -9,9 +9,18 @@
       "sha256": "FFE2F512F941708E761521B4D2245B5D809D94E27667D962D1BA2878808DBB20",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-jlc-pc-assistant-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-jlc-pc-assistant-20261020",
+      "assets": [
+        {
+          "name": "ffe2f512f941-JLCPcAssit_setup_5.1.21.zip",
+          "size_bytes": 72245737,
+          "sha256": "ffe2f512f941708e761521b4d2245b5d809d94e27667d962d1ba2878808dbb20",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-9ce2a37292797b2c896d/ffe2f512f941-JLCPcAssit_setup_5.1.21.zip",
+          "asset_id": 659473783
+        }
+      ]
     }
   ]
 }
