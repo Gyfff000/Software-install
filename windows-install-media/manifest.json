@@ -9,9 +9,18 @@
       "sha256": "39430C2B8DD5C21BBD5AF9116573F8C574AE896CE31D47280914EF268F01E33F",
       "product_version": null,
       "local_copy_count": 2,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-windows-install-media-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-windows-install-media-20261020",
+      "assets": [
+        {
+          "name": "39430c2b8dd5-Windows_XP_SP3______32_.iso",
+          "size_bytes": 630237184,
+          "sha256": "39430c2b8dd5c21bbd5af9116573f8c574ae896ce31d47280914ef268f01e33f",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3d22e47e8dfa1aea50a1/39430c2b8dd5-Windows_XP_SP3______32_.iso",
+          "asset_id": 658617230
+        }
+      ]
     },
     {
       "filename": "Win11_25H2_Chinese_Simplified_x64.iso",
