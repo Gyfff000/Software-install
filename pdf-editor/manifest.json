@@ -9,9 +9,18 @@
       "sha256": "0253691B0E9C6B6CA491237AD108FBE54D2E9CECE93B6ACD93A2FA7B0D949AE0",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-pdf-editor-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-pdf-editor-20261020",
+      "assets": [
+        {
+          "name": "0253691b0e9c-GA_PDFEditor_Zh_Online_Full_v2025.1.0.27937_Continuous.msi",
+          "size_bytes": 1023131648,
+          "sha256": "0253691b0e9c6b6ca491237ad108fbe54d2e9cece93b6acd93a2fa7b0d949ae0",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-f1c09d29dab99fa2aea8/0253691b0e9c-GA_PDFEditor_Zh_Online_Full_v2025.1.0.27937_Continuous.msi",
+          "asset_id": 658506221
+        }
+      ]
     }
   ]
 }
