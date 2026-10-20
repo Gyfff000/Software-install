@@ -9,9 +9,18 @@
       "sha256": "9048E8BAAA1EA9C9C921819FE99672C1DDB48810DDDD2FD243534822003F512B",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-stm32cubemx-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-stm32cubemx-20261020",
+      "assets": [
+        {
+          "name": "9048e8baaa1e-stm32cubemx-win-v6-16-1.zip",
+          "size_bytes": 671961956,
+          "sha256": "9048e8baaa1ea9c9c921819fe99672c1ddb48810dddd2fd243534822003f512b",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-b8dbc835440052d282ab/9048e8baaa1e-stm32cubemx-win-v6-16-1.zip",
+          "asset_id": 658476039
+        }
+      ]
     }
   ]
 }
