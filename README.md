@@ -3,7 +3,7 @@ Here are installation packages for nearly all essential software for engineering
 
 ## 工科软件安装包归档
 每个软件一个目录，目录中包含文件清单、SHA-256与下载入口。实际安装包放在对应的GitHub Releases附件中；超过附件限制的文件按1GiB分卷。
-当前共 76 类软件；已上传并校验 26 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
+当前共 76 类软件；已上传并校验 30 份安装包；另有 1 份本地不完整镜像暂缓上传。未标记 uploaded_verified 的文件尚未备份完成。
 校验值用于确认备份字节一致，不代表官方来源、数字签名或授权认证。注册机、许可证文件、个人项目和本机路径不纳入公开归档。
 
 | 软件 | 安装包数 | 已完成 | 目录 |
@@ -19,11 +19,11 @@ Here are installation packages for nearly all essential software for engineering
 | CC Switch | 2 | 2 | [cc-switch](cc-switch/) |
 | ChatGPT | 1 | 1 | [chatgpt](chatgpt/) |
 | ChemDraw | 1 | 0 | [chemdraw](chemdraw/) |
-| Clash Verge | 1 | 0 | [clash-verge](clash-verge/) |
+| Clash Verge | 1 | 1 | [clash-verge](clash-verge/) |
 | Claude | 2 | 2 | [claude](claude/) |
 | CodeBlocks | 1 | 0 | [codeblocks](codeblocks/) |
 | Codex | 1 | 1 | [codex](codex/) |
-| CUMCM工具 | 1 | 0 | [cumcm-tool](cumcm-tool/) |
+| CUMCM工具 | 1 | 1 | [cumcm-tool](cumcm-tool/) |
 | DJI Assistant 2 | 1 | 0 | [dji-assistant](dji-assistant/) |
 | DJI NAZA-M LITE | 1 | 1 | [dji-naza](dji-naza/) |
 | 豆包 | 1 | 1 | [doubao](doubao/) |
@@ -74,8 +74,8 @@ Here are installation packages for nearly all essential software for engineering
 | 串口调试助手 | 1 | 1 | [uart-assistant](uart-assistant/) |
 | Ubuntu | 4 | 0 | [ubuntu](ubuntu/) |
 | 电应普超声波调试助手 | 1 | 0 | [ultrasonic-debug-tool](ultrasonic-debug-tool/) |
-| UU加速器 | 1 | 0 | [uu-accelerator](uu-accelerator/) |
-| UU远程 | 1 | 0 | [uu-remote](uu-remote/) |
+| UU加速器 | 1 | 1 | [uu-accelerator](uu-accelerator/) |
+| UU远程 | 1 | 1 | [uu-remote](uu-remote/) |
 | VirtualBox | 1 | 0 | [virtualbox](virtualbox/) |
 | Visual Studio | 1 | 1 | [visual-studio](visual-studio/) |
 | VisualGDB | 1 | 0 | [visualgdb](visualgdb/) |

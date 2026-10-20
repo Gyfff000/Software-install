@@ -9,9 +9,18 @@
       "sha256": "6642881B212BCD4766E81D56AEC7497063BA5198C287F7D00A2ECF13B6F8B61A",
       "product_version": "2.4.7",
       "local_copy_count": 2,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-clash-verge-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-clash-verge-20261020",
+      "assets": [
+        {
+          "name": "6642881b212b-Clash.Verge_2.4.7_x64-setup__2_.exe",
+          "size_bytes": 38672014,
+          "sha256": "6642881b212bcd4766e81d56aec7497063ba5198c287f7d00a2ecf13b6f8b61a",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-33191992ea59683371c6/6642881b212b-Clash.Verge_2.4.7_x64-setup__2_.exe",
+          "asset_id": 658335501
+        }
+      ]
     }
   ]
 }

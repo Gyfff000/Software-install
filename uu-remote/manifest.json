@@ -9,9 +9,18 @@
       "sha256": "018B7C27339080A28518BD3BCAD3F905953853468E394B97FE82EB1EEB240E36",
       "product_version": "",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-uu-remote-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-uu-remote-20261020",
+      "assets": [
+        {
+          "name": "018b7c273390-UURemote_Setup_3.12.0.3969_0512230725_gwqd.exe",
+          "size_bytes": 58577592,
+          "sha256": "018b7c27339080a28518bd3bcad3f905953853468e394b97fe82eb1eeb240e36",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-790ca9354536928cebbd/018b7c273390-UURemote_Setup_3.12.0.3969_0512230725_gwqd.exe",
+          "asset_id": 658335024
+        }
+      ]
     }
   ]
 }
