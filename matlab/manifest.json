@@ -9,9 +9,18 @@
       "sha256": "475D7EBEC766F2F5BE1E26826667A01BFFD8416A648E61B30F82A7F4D6971B8B",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-matlab-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-matlab-20261020",
+      "assets": [
+        {
+          "name": "475d7ebec766-matlab_R2025a_Windows.exe",
+          "size_bytes": 233093408,
+          "sha256": "475d7ebec766f2f5be1e26826667a01bffd8416a648e61b30f82a7f4d6971b8b",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-05d9539490b57c903706/475d7ebec766-matlab_R2025a_Windows.exe",
+          "asset_id": 658371998
+        }
+      ]
     }
   ]
 }

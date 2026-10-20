@@ -9,9 +9,18 @@
       "sha256": "8CD4350898DEC154D97104C9126BD52AEBB387BB6824B4349FFBA1C347FDED34",
       "product_version": "1.131.0                                           ",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-vscode-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-vscode-20261020",
+      "assets": [
+        {
+          "name": "8cd4350898de-CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.exe",
+          "size_bytes": 232347808,
+          "sha256": "8cd4350898dec154d97104c9126bd52aebb387bb6824b4349ffba1c347fded34",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-71a017dc62012e1956bf/8cd4350898de-CodeSetup-stable-e4c7e7b1d6d060162f4aa7f8225271b67ce1df75.exe",
+          "asset_id": 658371549
+        }
+      ]
     }
   ]
 }

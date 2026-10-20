@@ -9,9 +9,18 @@
       "sha256": "3F3E7175A8F693647D4E1B23D712DCEA28F7B5E85432DF326D9A7796A82C1FBC",
       "product_version": "0.57.16.0",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-oopz-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-oopz-20261020",
+      "assets": [
+        {
+          "name": "3f3e7175a8f6-oopz_setup_v1.2.8.10.exe",
+          "size_bytes": 238401312,
+          "sha256": "3f3e7175a8f693647d4e1b23d712dcea28f7b5e85432df326d9a7796a82c1fbc",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-fc62037128b2c56aeaac/3f3e7175a8f6-oopz_setup_v1.2.8.10.exe",
+          "asset_id": 658372241
+        }
+      ]
     }
   ]
 }
