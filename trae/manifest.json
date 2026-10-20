@@ -29,9 +29,18 @@
       "sha256": "91EA871A0FD2EDD8034D9F3439931D6DA7FF316C99F49B4BE611EF2EA93A700E",
       "product_version": "0.1.50                                            ",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-trae-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-trae-20261020",
+      "assets": [
+        {
+          "name": "91ea871a0fd2-TRAE_SOLOSetup-stable-2.3.70844.exe",
+          "size_bytes": 355830848,
+          "sha256": "91ea871a0fd2edd8034d9f3439931d6da7ff316c99f49b4be611ef2ea93a700e",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3b9832c830e409af3691/91ea871a0fd2-TRAE_SOLOSetup-stable-2.3.70844.exe",
+          "asset_id": 658485702
+        }
+      ]
     }
   ]
 }
