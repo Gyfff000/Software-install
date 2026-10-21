@@ -76,9 +76,25 @@
       "sha256": "F7D4565DBA0D631A4421DC0E1C86D9841543D058804389FFD8539A1EE6F0E990",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-siemens-tia-portal-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-siemens-tia-portal-20261020",
+      "assets": [
+        {
+          "name": "f7d4565dba0d-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.003.part001",
+          "size_bytes": 1073741824,
+          "sha256": "299f0f85cfdb3e87622d771656d7b59df25086ace6af6e4216f69e7aed1578c7",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-f3b6b7b237534a6969b0/f7d4565dba0d-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.003.part001",
+          "asset_id": 661362195
+        },
+        {
+          "name": "f7d4565dba0d-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.003.part002",
+          "size_bytes": 324506229,
+          "sha256": "e98f7d3fa79d6f75cadc6ec52cd4916a7afecb43962992bd4c47515558ee8321",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-f3b6b7b237534a6969b0/f7d4565dba0d-TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V16.003.part002",
+          "asset_id": 661401492
+        }
+      ]
     }
   ]
 }
