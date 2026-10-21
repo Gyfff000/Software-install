@@ -9,9 +9,32 @@
       "sha256": "F98C59FF865389504EA0500D064FFDF70BAC8A9ED925975ADE9D4DFBDEE8B97F",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-autocad-install-media-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-autocad-install-media-20261020",
+      "assets": [
+        {
+          "name": "f98c59ff8653-CAD2024.rar.part001",
+          "size_bytes": 1073741824,
+          "sha256": "5e1d065169ec3d6e5f3a5b3b1aa7f1b469aeb5b5504f51bba177d8424f3b6105",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-aa59ac34c7bfa487242d/f98c59ff8653-CAD2024.rar.part001",
+          "asset_id": 661162548
+        },
+        {
+          "name": "f98c59ff8653-CAD2024.rar.part002",
+          "size_bytes": 1073741824,
+          "sha256": "71dc9213ced9b3f0ef65e10e2fbb84383ae95b8a992696e975a4275f580fc4ff",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-aa59ac34c7bfa487242d/f98c59ff8653-CAD2024.rar.part002",
+          "asset_id": 661202145
+        },
+        {
+          "name": "f98c59ff8653-CAD2024.rar.part003",
+          "size_bytes": 393049912,
+          "sha256": "52c57362901c27fbb7ba0a68333aa39ab6c304cf5ab97aac249678ff3e60215d",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-aa59ac34c7bfa487242d/f98c59ff8653-CAD2024.rar.part003",
+          "asset_id": 661262172
+        }
+      ]
     }
   ]
 }
