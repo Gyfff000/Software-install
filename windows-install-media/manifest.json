@@ -29,9 +29,67 @@
       "sha256": "3BA0E9FF816088F054077B94C2229BA290D984975AB5CED420123CD46DCECBD0",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-windows-install-media-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-windows-install-media-20261020",
+      "assets": [
+        {
+          "name": "3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part001",
+          "size_bytes": 1073741824,
+          "sha256": "4821366656fc2c9a8463704b603c26ccbcfb69bf88c911fe2415d9965d033af3",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3d22e47e8dfa1aea50a1/3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part001",
+          "asset_id": 661023615
+        },
+        {
+          "name": "3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part002",
+          "size_bytes": 1073741824,
+          "sha256": "ca78763bd48a92e4145ae750d25f32cfcc1a405e827ad3b188c9e810813035b8",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3d22e47e8dfa1aea50a1/3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part002",
+          "asset_id": 661116784
+        },
+        {
+          "name": "3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part003",
+          "size_bytes": 1073741824,
+          "sha256": "4cd130c5a56bf0fc47720d096234e1c36a3e02e290f4b4759ace747fe895b39d",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3d22e47e8dfa1aea50a1/3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part003",
+          "asset_id": 661180315
+        },
+        {
+          "name": "3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part004",
+          "size_bytes": 1073741824,
+          "sha256": "1b23bc8261dc0ebfce38cbb470a114bd04a46b408e76e79ba6104d2933a8b8ed",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3d22e47e8dfa1aea50a1/3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part004",
+          "asset_id": 661246204
+        },
+        {
+          "name": "3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part005",
+          "size_bytes": 1073741824,
+          "sha256": "61979b234d828c4cafc1b6d2a2e1cb6289fa1501236998efd41629c2721ed965",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3d22e47e8dfa1aea50a1/3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part005",
+          "asset_id": 661316305
+        },
+        {
+          "name": "3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part006",
+          "size_bytes": 1073741824,
+          "sha256": "a7dbe7253898b07859075e5e47405aa58e93c4372e9e2f775d24294c4cd9916b",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3d22e47e8dfa1aea50a1/3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part006",
+          "asset_id": 661364336
+        },
+        {
+          "name": "3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part007",
+          "size_bytes": 1073741824,
+          "sha256": "bac3af1e51e42af02f168d3ce2ed25970a3c88d36662671a2a1177041c8a4402",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3d22e47e8dfa1aea50a1/3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part007",
+          "asset_id": 661386116
+        },
+        {
+          "name": "3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part008",
+          "size_bytes": 258365440,
+          "sha256": "d02178ed13cc04e4a9417523cc55e4cf00e3374ef6aa55945b38cdbfdabb564e",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-3d22e47e8dfa1aea50a1/3ba0e9ff8160-Win11_25H2_Chinese_Simplified_x64.iso.part008",
+          "asset_id": 661416332
+        }
+      ]
     }
   ]
 }
