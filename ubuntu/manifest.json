@@ -9,9 +9,60 @@
       "sha256": "487F87FAAF547EA30E0ABA4D5B53346292571256B25333A978DB1692BCEE9DD2",
       "product_version": null,
       "local_copy_count": 2,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-ubuntu-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-ubuntu-20261020",
+      "assets": [
+        {
+          "name": "487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part001",
+          "size_bytes": 1073741824,
+          "sha256": "ece3886c23c6a8dd4fda8a982fe3130dc435f752297a86f674e09a33fb5ec12b",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part001",
+          "asset_id": 661023646
+        },
+        {
+          "name": "487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part002",
+          "size_bytes": 1073741824,
+          "sha256": "10dac29938c85fb244fc0e37a2bb93c4566757e9bb4abb17d61143240b073c2c",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part002",
+          "asset_id": 661104630
+        },
+        {
+          "name": "487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part003",
+          "size_bytes": 1073741824,
+          "sha256": "de494c23466352a5f3b36818fe0533b21fea1dab5f23df2e43a70c178b1f3bfb",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part003",
+          "asset_id": 661150554
+        },
+        {
+          "name": "487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part004",
+          "size_bytes": 1073741824,
+          "sha256": "4a02b107a89c597e93e96f6c7d06c8208c607a635ceff187072154774c2df4bc",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part004",
+          "asset_id": 661200641
+        },
+        {
+          "name": "487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part005",
+          "size_bytes": 1073741824,
+          "sha256": "a6707db38098c380059f8184443fdc931c32ed7dfeee578a5d76fa66f3668eed",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part005",
+          "asset_id": 661320155
+        },
+        {
+          "name": "487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part006",
+          "size_bytes": 1073741824,
+          "sha256": "fda0c625c10f36a4c42e86d5fb2e8f6576b5c364fafe896c1ac7979c805a78bd",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part006",
+          "asset_id": 661342030
+        },
+        {
+          "name": "487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part007",
+          "size_bytes": 76523520,
+          "sha256": "4425c5ff0eebf82751889ad125226f8c9663767320686e73b425ff8757831d50",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/487f87faaf54-ubuntu-26.04-desktop-amd64.iso.part007",
+          "asset_id": 661362085
+        }
+      ]
     },
     {
       "filename": "ubuntu-24.04.4-desktop-amd64.iso",
