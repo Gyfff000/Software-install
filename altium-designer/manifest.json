@@ -91,9 +91,18 @@
       "sha256": "6C87EF25A9CE8F9EEB1378B877158A56A6EDF5F4A1872B3697BF806A60F10BC1",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-altium-designer-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-altium-designer-20261020",
+      "assets": [
+        {
+          "name": "6c87ef25a9ce-AltiumDesigner0715_130022.exe",
+          "size_bytes": 33022376,
+          "sha256": "6c87ef25a9ce8f9eeb1378b877158a56a6edf5f4a1872b3697bf806a60f10bc1",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-35c99696b1b21d7c52d1/6c87ef25a9ce-AltiumDesigner0715_130022.exe",
+          "asset_id": 661320380
+        }
+      ]
     }
   ]
 }
