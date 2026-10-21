@@ -9,9 +9,39 @@
       "sha256": "53C942E83C100D603FF914B64F2A022D395CE19A8EAD9DD418C076418BF1D689",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-altium-designer-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-altium-designer-20261020",
+      "assets": [
+        {
+          "name": "53c942e83c10-AltiumDesigner24.rar.part001",
+          "size_bytes": 1073741824,
+          "sha256": "6a208f7ee0632eb292a0bf5949b402bf0570bc88af2ccea9e9efc46d2b9b6e55",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-35c99696b1b21d7c52d1/53c942e83c10-AltiumDesigner24.rar.part001",
+          "asset_id": 661023614
+        },
+        {
+          "name": "53c942e83c10-AltiumDesigner24.rar.part002",
+          "size_bytes": 1073741824,
+          "sha256": "0e4afaf99a19fc7b4c0e92b44e8b9bc48bcef492bce144d84de47e45b1e839fd",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-35c99696b1b21d7c52d1/53c942e83c10-AltiumDesigner24.rar.part002",
+          "asset_id": 661093588
+        },
+        {
+          "name": "53c942e83c10-AltiumDesigner24.rar.part003",
+          "size_bytes": 1073741824,
+          "sha256": "4734ae3d9c3fb2e10e763ab7d0fe83e5d441583b1474eca8e1430200e402289f",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-35c99696b1b21d7c52d1/53c942e83c10-AltiumDesigner24.rar.part003",
+          "asset_id": 661118800
+        },
+        {
+          "name": "53c942e83c10-AltiumDesigner24.rar.part004",
+          "size_bytes": 210477376,
+          "sha256": "52f7b371eed615d193df17ad6d9c4800e9d05b5679bffd668e86b8169a7bf076",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-35c99696b1b21d7c52d1/53c942e83c10-AltiumDesigner24.rar.part004",
+          "asset_id": 661179525
+        }
+      ]
     },
     {
       "filename": "Altium_Designer_Public_25_8_1 (2).zip",
