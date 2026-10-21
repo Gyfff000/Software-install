@@ -7,10 +7,11 @@
 | 文件 | 大小（字节） | 状态 |
 | --- | ---: | --- |
 | AltiumDesigner24.rar | 3431702848 | uploaded_verified |
-| Altium_Designer_Public_25_8_1 (2).zip | 3446798271 | pending_upload |
+| Altium_Designer_Public_25_8_1 (2).zip | 3446798271 | uploaded_verified |
 | AltiumDesigner0715_130022.exe | 33022376 | pending_upload |
 
 详细校验值、附件名与分卷顺序见 [manifest.json](manifest.json)。已完成附件入口：
 - [AltiumDesigner24.rar](https://github.com/Gyfff000/Software-install/releases/tag/archive-altium-designer-20261020)
+- [Altium_Designer_Public_25_8_1 (2).zip](https://github.com/Gyfff000/Software-install/releases/tag/archive-altium-designer-20261020)
 
 恢复：下载所需安装包的所有附件和 manifest.json，在附件所在目录运行仓库 scripts/Restore-Parts.ps1 -ManifestPath manifest.json。该脚本按清单恢复原始文件名，合并分卷并校验完整文件。厂商分卷介质还需要下载同组全部原始分卷与启动EXE。

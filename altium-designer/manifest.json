@@ -50,9 +50,39 @@
       "sha256": "6C52C445172442CEFE067E2FE5090D526F71911135B1F3481FF80C0B88C81001",
       "product_version": null,
       "local_copy_count": 3,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-altium-designer-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-altium-designer-20261020",
+      "assets": [
+        {
+          "name": "6c52c4451724-Altium_Designer_Public_25_8_1__2_.zip.part001",
+          "size_bytes": 1073741824,
+          "sha256": "6a63f611df2003b01188e5dec765db55c3a9d04b95c12e432b7beb8e846b91bf",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-35c99696b1b21d7c52d1/6c52c4451724-Altium_Designer_Public_25_8_1__2_.zip.part001",
+          "asset_id": 661196552
+        },
+        {
+          "name": "6c52c4451724-Altium_Designer_Public_25_8_1__2_.zip.part002",
+          "size_bytes": 1073741824,
+          "sha256": "b7428141ea3703b9dd5172858af83644ce6ef5d18d0a9675d26aa528d120233b",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-35c99696b1b21d7c52d1/6c52c4451724-Altium_Designer_Public_25_8_1__2_.zip.part002",
+          "asset_id": 661222685
+        },
+        {
+          "name": "6c52c4451724-Altium_Designer_Public_25_8_1__2_.zip.part003",
+          "size_bytes": 1073741824,
+          "sha256": "db44ea3e0cab9c9db9f647f9c57c0b2eb71ef88c58322b449bd6bc2105c5ea27",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-35c99696b1b21d7c52d1/6c52c4451724-Altium_Designer_Public_25_8_1__2_.zip.part003",
+          "asset_id": 661247045
+        },
+        {
+          "name": "6c52c4451724-Altium_Designer_Public_25_8_1__2_.zip.part004",
+          "size_bytes": 225572799,
+          "sha256": "d36a38f11b5fc6bdd6cbdcff29d5d727229c8997da902b291d8d4ddb16ad8897",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-35c99696b1b21d7c52d1/6c52c4451724-Altium_Designer_Public_25_8_1__2_.zip.part004",
+          "asset_id": 661314147
+        }
+      ]
     },
     {
       "filename": "AltiumDesigner0715_130022.exe",
