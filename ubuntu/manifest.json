@@ -130,9 +130,32 @@
       "sha256": "DEC49008A71F6098D0BCFC822021F4D042D5F2DB279E4D75BDD981304F1CA5D9",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-ubuntu-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-ubuntu-20261020",
+      "assets": [
+        {
+          "name": "dec49008a71f-ubuntu-26.04-live-server-amd64__1_.iso.part001",
+          "size_bytes": 1073741824,
+          "sha256": "8f7613914482833bc37ea0ce4e4ca13086016dd6df5bfe1035a6249766350289",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/dec49008a71f-ubuntu-26.04-live-server-amd64__1_.iso.part001",
+          "asset_id": 661504856
+        },
+        {
+          "name": "dec49008a71f-ubuntu-26.04-live-server-amd64__1_.iso.part002",
+          "size_bytes": 1073741824,
+          "sha256": "dc0ad70eaff3ede110ed48b4100e3226bae2e8448bc2d2608bb27ca586a38a50",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/dec49008a71f-ubuntu-26.04-live-server-amd64__1_.iso.part002",
+          "asset_id": 661529093
+        },
+        {
+          "name": "dec49008a71f-ubuntu-26.04-live-server-amd64__1_.iso.part003",
+          "size_bytes": 771115008,
+          "sha256": "e4b0416f2af035c41a9f4b83b32480f283228a3a89fdc6e7a5cbd14f7d49c6d0",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/dec49008a71f-ubuntu-26.04-live-server-amd64__1_.iso.part003",
+          "asset_id": 661553347
+        }
+      ]
     }
   ]
 }
