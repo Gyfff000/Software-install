@@ -82,9 +82,46 @@
       "sha256": "BFD1CEE02BC4F35DB939E69B934BA49A39A378797CE9AEE20F6E3E3E728FEFBF",
       "product_version": null,
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-ubuntu-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-ubuntu-20261020",
+      "assets": [
+        {
+          "name": "bfd1cee02bc4-ubuntu-22.04.5-desktop-amd64.iso.part001",
+          "size_bytes": 1073741824,
+          "sha256": "82e8b58b58304123402add082feb464b84f1f75d5e04b533bd94e748412aab81",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/bfd1cee02bc4-ubuntu-22.04.5-desktop-amd64.iso.part001",
+          "asset_id": 661363445
+        },
+        {
+          "name": "bfd1cee02bc4-ubuntu-22.04.5-desktop-amd64.iso.part002",
+          "size_bytes": 1073741824,
+          "sha256": "a048d6949fa2e3942b1e1c304fb014e669d04472638e10ab08356b28eb47e6d0",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/bfd1cee02bc4-ubuntu-22.04.5-desktop-amd64.iso.part002",
+          "asset_id": 661409119
+        },
+        {
+          "name": "bfd1cee02bc4-ubuntu-22.04.5-desktop-amd64.iso.part003",
+          "size_bytes": 1073741824,
+          "sha256": "15df38aaf9efcc862f3588320f1a51e0ad7eee23ea11ad32b0f244e92dd4eb0b",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/bfd1cee02bc4-ubuntu-22.04.5-desktop-amd64.iso.part003",
+          "asset_id": 661435899
+        },
+        {
+          "name": "bfd1cee02bc4-ubuntu-22.04.5-desktop-amd64.iso.part004",
+          "size_bytes": 1073741824,
+          "sha256": "9287dfbc4ecd5a6e4b77a1083b53204b8f74aea58bcf8db16ca265e4ffafae5b",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/bfd1cee02bc4-ubuntu-22.04.5-desktop-amd64.iso.part004",
+          "asset_id": 661460598
+        },
+        {
+          "name": "bfd1cee02bc4-ubuntu-22.04.5-desktop-amd64.iso.part005",
+          "size_bytes": 467740672,
+          "sha256": "b70ece7dc62924c6088223275a0b6ff07822092aced7fd7d015f6a6b8de8a35d",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-32baeb6662a9b3397af1/bfd1cee02bc4-ubuntu-22.04.5-desktop-amd64.iso.part005",
+          "asset_id": 661486498
+        }
+      ]
     },
     {
       "filename": "ubuntu-26.04-live-server-amd64 (1).iso",
