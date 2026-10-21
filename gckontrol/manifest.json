@@ -9,9 +9,32 @@
       "sha256": "017EA8A398556ED89EC39CE5C820DE4FE4F80186AA1057BD4FA7FA9608AB9212",
       "product_version": "10.1.1",
       "local_copy_count": 1,
-      "status": "pending_upload",
+      "status": "uploaded_verified",
       "release_tag": "archive-gckontrol-20261020",
-      "download_url": null
+      "download_url": "https://github.com/Gyfff000/Software-install/releases/tag/archive-gckontrol-20261020",
+      "assets": [
+        {
+          "name": "017ea8a39855-GCKontrol10.1.1_1776493745747.exe.part001",
+          "size_bytes": 1073741824,
+          "sha256": "f855672a596447d86eca2668aaf3172c4d35ee49287afe9bff9d87b4e592e20f",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-e64d2e293dfe4c79272c/017ea8a39855-GCKontrol10.1.1_1776493745747.exe.part001",
+          "asset_id": 661023612
+        },
+        {
+          "name": "017ea8a39855-GCKontrol10.1.1_1776493745747.exe.part002",
+          "size_bytes": 1073741824,
+          "sha256": "e6ded3b1e2df996ff17b0e4347a5686ee6744ff7c4f9392e8a26827aee3e2fe6",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-e64d2e293dfe4c79272c/017ea8a39855-GCKontrol10.1.1_1776493745747.exe.part002",
+          "asset_id": 661107892
+        },
+        {
+          "name": "017ea8a39855-GCKontrol10.1.1_1776493745747.exe.part003",
+          "size_bytes": 118198128,
+          "sha256": "9774436b496d5a2e0f33db2162f4fdb9b0b252e6c49fd6ef675c6ddf3ce66320",
+          "download_url": "https://github.com/Gyfff000/Software-install/releases/download/untagged-e64d2e293dfe4c79272c/017ea8a39855-GCKontrol10.1.1_1776493745747.exe.part003",
+          "asset_id": 661152890
+        }
+      ]
     }
   ]
 }
